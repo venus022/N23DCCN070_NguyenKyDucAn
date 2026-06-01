@@ -1,0 +1,1982 @@
+StudentID,Name,GPA,Major,Year,Credits
+S00004,Student_4,3.73,SE,Junior,65
+S00007,Student_7,3.51,AI,Junior,131
+S00008,Student_8,3.56,CS,Sophomore,132
+S00016,Student_16,3.97,Data Science,Freshman,123
+S00021,Student_21,3.99,IT,Sophomore,32
+S00025,Student_25,3.51,CS,Senior,119
+S00027,Student_27,3.7,Finance,Junior,102
+S00029,Student_29,3.9,IT,Senior,74
+S00031,Student_31,3.61,AI,Sophomore,120
+S00033,Student_33,3.56,AI,Senior,0
+S00035,Student_35,3.66,Business,Sophomore,19
+S00040,Student_40,3.71,Business,Freshman,118
+S00044,Student_44,3.9,IT,Junior,4
+S00048,Student_48,3.72,Finance,Sophomore,47
+S00053,Student_53,3.62,Finance,Sophomore,2
+S00054,Student_54,3.91,IT,Junior,64
+S00056,Student_56,3.87,CS,Freshman,51
+S00058,Student_58,3.71,CS,Sophomore,36
+S00065,Student_65,3.58,AI,Freshman,135
+S00067,Student_67,3.88,Data Science,Sophomore,79
+S00073,Student_73,3.84,CS,Sophomore,57
+S00074,Student_74,3.67,Finance,Senior,127
+S00079,Student_79,3.97,SE,Sophomore,125
+S00080,Student_80,3.66,Finance,Senior,78
+S00102,Student_102,3.57,Business,Freshman,91
+S00106,Student_106,3.57,CS,Junior,66
+S00107,Student_107,3.88,AI,Junior,65
+S00115,Student_115,3.95,CS,Freshman,40
+S00138,Student_138,3.71,Finance,Junior,91
+S00139,Student_139,3.65,AI,Freshman,124
+S00140,Student_140,3.8,Data Science,Freshman,52
+S00155,Student_155,3.85,IT,Sophomore,112
+S00158,Student_158,3.91,Finance,Junior,43
+S00159,Student_159,3.94,AI,Junior,55
+S00160,Student_160,3.86,CS,Senior,17
+S00165,Student_165,3.85,CS,Junior,102
+S00181,Student_181,3.54,Business,Junior,136
+S00185,Student_185,3.93,Business,Junior,46
+S00188,Student_188,3.93,CS,Senior,40
+S00198,Student_198,3.72,Finance,Sophomore,21
+S00199,Student_199,3.63,Data Science,Sophomore,6
+S00201,Student_201,3.69,IT,Senior,57
+S00217,Student_217,3.96,IT,Senior,11
+S00234,Student_234,3.81,CS,Senior,30
+S00241,Student_241,3.83,Finance,Senior,61
+S00244,Student_244,3.56,Data Science,Junior,136
+S00248,Student_248,3.9,SE,Freshman,82
+S00253,Student_253,3.9,Business,Junior,66
+S00254,Student_254,3.72,Data Science,Senior,121
+S00255,Student_255,3.8,Data Science,Junior,5
+S00264,Student_264,3.59,IT,Senior,3
+S00265,Student_265,3.63,Business,Freshman,40
+S00270,Student_270,3.67,Data Science,Senior,38
+S00273,Student_273,3.9,IT,Senior,105
+S00286,Student_286,3.69,IT,Junior,139
+S00292,Student_292,3.79,CS,Freshman,111
+S00298,Student_298,3.68,CS,Sophomore,4
+S00301,Student_301,3.61,Data Science,Senior,54
+S00305,Student_305,3.65,SE,Freshman,50
+S00307,Student_307,3.52,Business,Freshman,119
+S00312,Student_312,3.51,AI,Senior,58
+S00316,Student_316,3.57,SE,Junior,60
+S00319,Student_319,3.65,SE,Senior,20
+S00324,Student_324,3.72,Data Science,Sophomore,23
+S00326,Student_326,3.95,Finance,Junior,115
+S00333,Student_333,3.52,CS,Sophomore,80
+S00340,Student_340,3.59,SE,Sophomore,13
+S00341,Student_341,3.92,IT,Junior,43
+S00349,Student_349,3.54,Data Science,Sophomore,0
+S00352,Student_352,3.67,IT,Junior,18
+S00358,Student_358,3.82,Finance,Sophomore,15
+S00368,Student_368,3.92,Business,Sophomore,43
+S00373,Student_373,3.54,Business,Senior,101
+S00390,Student_390,3.94,Business,Junior,72
+S00398,Student_398,3.8,CS,Senior,4
+S00399,Student_399,3.96,IT,Junior,94
+S00401,Student_401,3.7,IT,Sophomore,137
+S00405,Student_405,3.7,AI,Sophomore,138
+S00413,Student_413,3.71,SE,Sophomore,62
+S00416,Student_416,3.64,AI,Junior,12
+S00419,Student_419,3.78,Business,Senior,113
+S00423,Student_423,3.59,AI,Senior,113
+S00425,Student_425,3.91,CS,Sophomore,131
+S00426,Student_426,3.91,Data Science,Junior,135
+S00428,Student_428,3.6,CS,Junior,70
+S00432,Student_432,3.95,Data Science,Senior,129
+S00438,Student_438,3.96,Data Science,Junior,106
+S00451,Student_451,3.71,CS,Junior,26
+S00453,Student_453,3.79,Data Science,Freshman,113
+S00470,Student_470,3.65,Finance,Senior,15
+S00477,Student_477,3.88,AI,Sophomore,100
+S00478,Student_478,3.91,AI,Sophomore,63
+S00480,Student_480,3.51,Data Science,Sophomore,51
+S00482,Student_482,3.79,CS,Junior,3
+S00486,Student_486,3.75,Finance,Junior,134
+S00489,Student_489,3.51,IT,Senior,122
+S00498,Student_498,3.52,CS,Freshman,130
+S00505,Student_505,3.97,IT,Senior,129
+S00508,Student_508,3.66,IT,Sophomore,133
+S00510,Student_510,3.7,Data Science,Junior,4
+S00515,Student_515,3.71,Data Science,Freshman,132
+S00526,Student_526,3.9,SE,Senior,38
+S00529,Student_529,3.77,IT,Freshman,72
+S00539,Student_539,3.95,CS,Junior,45
+S00546,Student_546,3.91,SE,Junior,127
+S00559,Student_559,3.93,Finance,Freshman,21
+S00562,Student_562,3.9,IT,Senior,57
+S00568,Student_568,3.66,AI,Sophomore,23
+S00579,Student_579,3.79,AI,Sophomore,83
+S00581,Student_581,3.62,Business,Freshman,122
+S00584,Student_584,3.75,SE,Freshman,17
+S00597,Student_597,3.55,Finance,Junior,48
+S00606,Student_606,3.74,CS,Junior,98
+S00613,Student_613,3.54,Business,Junior,102
+S00614,Student_614,3.71,AI,Junior,59
+S00615,Student_615,3.84,Data Science,Junior,46
+S00625,Student_625,3.99,Data Science,Junior,97
+S00635,Student_635,3.87,SE,Junior,33
+S00637,Student_637,3.83,Business,Junior,128
+S00640,Student_640,3.52,AI,Sophomore,71
+S00647,Student_647,3.87,Data Science,Senior,89
+S00652,Student_652,3.77,Business,Junior,40
+S00654,Student_654,3.74,CS,Senior,109
+S00685,Student_685,3.55,Business,Senior,15
+S00686,Student_686,3.66,IT,Sophomore,31
+S00689,Student_689,3.77,IT,Freshman,37
+S00694,Student_694,3.81,SE,Sophomore,2
+S00702,Student_702,3.84,AI,Freshman,57
+S00703,Student_703,3.78,IT,Freshman,126
+S00707,Student_707,3.86,Data Science,Junior,102
+S00713,Student_713,3.73,IT,Sophomore,24
+S00716,Student_716,3.54,IT,Senior,11
+S00720,Student_720,3.94,IT,Senior,119
+S00725,Student_725,3.8,AI,Senior,124
+S00726,Student_726,3.96,CS,Senior,119
+S00733,Student_733,4.0,SE,Junior,75
+S00740,Student_740,3.62,SE,Freshman,122
+S00745,Student_745,3.9,Data Science,Senior,112
+S00747,Student_747,3.6,Business,Sophomore,22
+S00748,Student_748,3.65,Data Science,Senior,77
+S00752,Student_752,3.71,AI,Junior,92
+S00760,Student_760,3.88,AI,Freshman,119
+S00761,Student_761,3.84,IT,Sophomore,37
+S00768,Student_768,3.66,Finance,Sophomore,102
+S00780,Student_780,3.78,Business,Senior,41
+S00782,Student_782,3.64,Finance,Junior,54
+S00784,Student_784,3.59,Data Science,Sophomore,126
+S00785,Student_785,3.79,Data Science,Senior,110
+S00799,Student_799,3.57,AI,Freshman,100
+S00802,Student_802,3.95,Data Science,Junior,41
+S00807,Student_807,3.54,SE,Freshman,92
+S00808,Student_808,3.81,Business,Senior,93
+S00816,Student_816,3.62,SE,Sophomore,39
+S00822,Student_822,3.65,Finance,Freshman,89
+S00825,Student_825,3.73,SE,Freshman,98
+S00828,Student_828,3.65,Data Science,Junior,138
+S00833,Student_833,3.54,SE,Senior,140
+S00836,Student_836,3.84,Finance,Junior,67
+S00838,Student_838,3.58,IT,Senior,4
+S00841,Student_841,3.8,CS,Junior,130
+S00855,Student_855,3.99,SE,Senior,86
+S00858,Student_858,3.77,IT,Junior,57
+S00861,Student_861,3.51,IT,Sophomore,135
+S00863,Student_863,3.69,Data Science,Sophomore,20
+S00867,Student_867,3.93,CS,Senior,55
+S00877,Student_877,3.52,SE,Senior,139
+S00886,Student_886,3.82,Finance,Junior,99
+S00891,Student_891,3.6,Business,Freshman,122
+S00900,Student_900,3.83,SE,Sophomore,68
+S00910,Student_910,3.88,AI,Sophomore,118
+S00911,Student_911,3.52,Business,Senior,33
+S00920,Student_920,3.75,Business,Sophomore,71
+S00926,Student_926,3.69,Business,Sophomore,123
+S00930,Student_930,3.85,Finance,Junior,20
+S00933,Student_933,3.72,Data Science,Senior,2
+S00939,Student_939,3.64,IT,Senior,74
+S00945,Student_945,3.76,Data Science,Freshman,35
+S00952,Student_952,3.9,Business,Senior,13
+S00960,Student_960,3.65,Finance,Freshman,12
+S00961,Student_961,3.52,Finance,Senior,139
+S00974,Student_974,3.54,SE,Junior,138
+S00985,Student_985,3.54,AI,Sophomore,52
+S00990,Student_990,3.76,CS,Senior,71
+S00993,Student_993,3.73,Business,Sophomore,105
+S00995,Student_995,3.6,Data Science,Sophomore,62
+S00996,Student_996,3.79,Business,Senior,56
+S00998,Student_998,3.81,SE,Senior,105
+S01000,Student_1000,3.81,Data Science,Senior,21
+S01001,Student_1001,3.92,IT,Sophomore,22
+S01003,Student_1003,3.88,Business,Senior,106
+S01023,Student_1023,3.92,Business,Senior,72
+S01041,Student_1041,3.98,SE,Sophomore,94
+S01044,Student_1044,3.81,AI,Sophomore,22
+S01045,Student_1045,3.65,CS,Senior,100
+S01047,Student_1047,3.89,Finance,Sophomore,114
+S01048,Student_1048,3.65,CS,Freshman,43
+S01052,Student_1052,3.53,Data Science,Senior,67
+S01056,Student_1056,3.85,SE,Sophomore,127
+S01058,Student_1058,3.51,IT,Junior,104
+S01059,Student_1059,3.69,Data Science,Freshman,38
+S01073,Student_1073,3.81,AI,Junior,17
+S01074,Student_1074,3.56,AI,Sophomore,132
+S01076,Student_1076,4.0,SE,Junior,22
+S01078,Student_1078,3.66,SE,Sophomore,137
+S01092,Student_1092,3.66,Data Science,Junior,139
+S01096,Student_1096,3.72,Finance,Junior,26
+S01101,Student_1101,3.54,Finance,Senior,102
+S01108,Student_1108,4.0,IT,Senior,67
+S01110,Student_1110,3.81,Data Science,Freshman,77
+S01115,Student_1115,3.89,SE,Sophomore,16
+S01116,Student_1116,3.96,IT,Sophomore,42
+S01118,Student_1118,3.74,Data Science,Senior,111
+S01131,Student_1131,3.79,Finance,Freshman,119
+S01138,Student_1138,3.86,Data Science,Junior,107
+S01143,Student_1143,3.82,SE,Freshman,68
+S01146,Student_1146,3.65,Finance,Sophomore,102
+S01152,Student_1152,3.89,Finance,Senior,12
+S01156,Student_1156,3.98,IT,Freshman,102
+S01160,Student_1160,3.87,Finance,Junior,18
+S01163,Student_1163,3.75,IT,Senior,7
+S01173,Student_1173,3.86,IT,Sophomore,14
+S01175,Student_1175,3.56,Business,Sophomore,56
+S01179,Student_1179,3.92,Finance,Sophomore,93
+S01182,Student_1182,3.98,CS,Sophomore,82
+S01184,Student_1184,3.97,Data Science,Freshman,82
+S01187,Student_1187,3.86,AI,Freshman,108
+S01188,Student_1188,3.62,Data Science,Sophomore,100
+S01189,Student_1189,3.81,IT,Junior,43
+S01192,Student_1192,3.66,Finance,Freshman,24
+S01201,Student_1201,3.72,IT,Freshman,72
+S01205,Student_1205,3.52,SE,Sophomore,89
+S01216,Student_1216,3.55,CS,Freshman,98
+S01217,Student_1217,3.98,AI,Freshman,61
+S01223,Student_1223,3.82,IT,Freshman,82
+S01234,Student_1234,3.53,Business,Freshman,74
+S01241,Student_1241,3.94,Business,Freshman,33
+S01243,Student_1243,3.54,CS,Junior,52
+S01244,Student_1244,3.82,IT,Senior,90
+S01245,Student_1245,3.7,Business,Freshman,25
+S01246,Student_1246,3.81,Finance,Senior,94
+S01248,Student_1248,3.95,AI,Freshman,101
+S01249,Student_1249,3.67,Finance,Junior,73
+S01254,Student_1254,3.67,IT,Junior,125
+S01262,Student_1262,3.85,Business,Sophomore,1
+S01267,Student_1267,3.75,AI,Senior,125
+S01271,Student_1271,3.64,CS,Junior,139
+S01274,Student_1274,3.94,SE,Sophomore,90
+S01276,Student_1276,3.76,SE,Sophomore,82
+S01280,Student_1280,3.76,SE,Senior,88
+S01284,Student_1284,3.73,Business,Sophomore,138
+S01288,Student_1288,3.94,Business,Junior,138
+S01300,Student_1300,3.81,CS,Senior,82
+S01311,Student_1311,3.71,CS,Junior,93
+S01312,Student_1312,3.78,AI,Sophomore,19
+S01313,Student_1313,3.9,CS,Senior,50
+S01316,Student_1316,3.78,IT,Junior,90
+S01318,Student_1318,3.71,AI,Senior,11
+S01336,Student_1336,3.59,AI,Senior,65
+S01339,Student_1339,3.72,CS,Senior,85
+S01362,Student_1362,3.65,CS,Sophomore,10
+S01364,Student_1364,3.88,Business,Senior,129
+S01372,Student_1372,3.51,CS,Senior,74
+S01373,Student_1373,3.59,IT,Sophomore,113
+S01376,Student_1376,3.52,AI,Senior,88
+S01381,Student_1381,3.66,IT,Junior,43
+S01387,Student_1387,3.67,Finance,Junior,123
+S01390,Student_1390,3.61,CS,Junior,62
+S01391,Student_1391,3.93,Finance,Freshman,65
+S01400,Student_1400,3.93,CS,Sophomore,87
+S01401,Student_1401,3.66,Data Science,Senior,121
+S01406,Student_1406,3.59,IT,Senior,13
+S01409,Student_1409,3.8,AI,Sophomore,51
+S01414,Student_1414,3.59,Data Science,Sophomore,97
+S01430,Student_1430,3.85,Finance,Senior,18
+S01435,Student_1435,3.65,Finance,Junior,41
+S01439,Student_1439,3.67,Business,Freshman,55
+S01440,Student_1440,3.51,IT,Sophomore,127
+S01441,Student_1441,3.71,Data Science,Sophomore,103
+S01443,Student_1443,3.72,Business,Senior,111
+S01452,Student_1452,4.0,Finance,Junior,11
+S01457,Student_1457,3.66,CS,Sophomore,112
+S01459,Student_1459,3.64,AI,Freshman,5
+S01460,Student_1460,3.51,IT,Sophomore,37
+S01465,Student_1465,3.96,IT,Sophomore,37
+S01471,Student_1471,3.67,Data Science,Senior,130
+S01479,Student_1479,3.67,IT,Senior,100
+S01484,Student_1484,3.58,Data Science,Junior,105
+S01486,Student_1486,3.7,CS,Junior,120
+S01509,Student_1509,3.94,Data Science,Sophomore,10
+S01510,Student_1510,3.8,Business,Senior,57
+S01514,Student_1514,3.79,Business,Sophomore,42
+S01515,Student_1515,3.57,Business,Junior,11
+S01516,Student_1516,3.82,CS,Junior,92
+S01517,Student_1517,3.77,SE,Junior,37
+S01528,Student_1528,3.72,Finance,Junior,7
+S01538,Student_1538,3.52,Business,Senior,37
+S01539,Student_1539,3.59,SE,Sophomore,139
+S01548,Student_1548,3.92,Business,Sophomore,112
+S01561,Student_1561,3.96,IT,Sophomore,3
+S01572,Student_1572,3.83,AI,Junior,27
+S01578,Student_1578,3.74,Business,Freshman,132
+S01579,Student_1579,3.85,SE,Sophomore,25
+S01580,Student_1580,3.54,Finance,Senior,6
+S01581,Student_1581,3.68,SE,Junior,130
+S01582,Student_1582,3.58,Finance,Junior,37
+S01583,Student_1583,3.96,SE,Freshman,67
+S01586,Student_1586,3.83,SE,Junior,50
+S01587,Student_1587,3.7,CS,Freshman,72
+S01597,Student_1597,3.61,Data Science,Sophomore,66
+S01607,Student_1607,3.68,Data Science,Freshman,35
+S01612,Student_1612,3.92,SE,Sophomore,29
+S01614,Student_1614,3.95,IT,Sophomore,43
+S01620,Student_1620,3.53,AI,Sophomore,83
+S01624,Student_1624,3.77,CS,Freshman,0
+S01633,Student_1633,3.97,Finance,Junior,75
+S01637,Student_1637,3.54,SE,Junior,70
+S01640,Student_1640,3.65,Business,Junior,81
+S01645,Student_1645,3.64,AI,Freshman,91
+S01649,Student_1649,3.63,CS,Senior,66
+S01654,Student_1654,3.74,Business,Junior,89
+S01655,Student_1655,3.87,Business,Senior,56
+S01661,Student_1661,3.86,Finance,Junior,20
+S01666,Student_1666,3.88,Business,Freshman,67
+S01670,Student_1670,3.89,CS,Sophomore,13
+S01674,Student_1674,3.79,IT,Sophomore,130
+S01676,Student_1676,3.81,Business,Freshman,89
+S01684,Student_1684,3.65,Business,Sophomore,69
+S01686,Student_1686,3.57,CS,Sophomore,48
+S01688,Student_1688,3.67,CS,Junior,133
+S01692,Student_1692,3.58,CS,Senior,131
+S01698,Student_1698,3.61,SE,Sophomore,137
+S01704,Student_1704,3.52,Finance,Senior,99
+S01705,Student_1705,3.72,SE,Junior,89
+S01710,Student_1710,3.95,CS,Senior,60
+S01711,Student_1711,3.81,IT,Senior,110
+S01716,Student_1716,3.55,Business,Freshman,30
+S01717,Student_1717,3.82,CS,Sophomore,110
+S01719,Student_1719,3.68,SE,Senior,68
+S01721,Student_1721,3.62,SE,Freshman,18
+S01722,Student_1722,3.71,Business,Senior,27
+S01731,Student_1731,3.77,SE,Junior,9
+S01736,Student_1736,3.6,CS,Sophomore,95
+S01745,Student_1745,3.63,AI,Sophomore,130
+S01751,Student_1751,4.0,SE,Senior,45
+S01753,Student_1753,3.69,CS,Junior,77
+S01755,Student_1755,3.64,Data Science,Sophomore,12
+S01760,Student_1760,3.72,Business,Junior,110
+S01769,Student_1769,3.9,Data Science,Senior,105
+S01772,Student_1772,3.94,AI,Senior,73
+S01777,Student_1777,3.53,Data Science,Junior,32
+S01780,Student_1780,3.88,Business,Freshman,114
+S01784,Student_1784,3.59,SE,Senior,30
+S01792,Student_1792,3.94,CS,Senior,42
+S01795,Student_1795,3.71,Finance,Freshman,124
+S01797,Student_1797,3.71,Data Science,Freshman,115
+S01798,Student_1798,3.96,Data Science,Freshman,97
+S01804,Student_1804,3.92,IT,Freshman,17
+S01805,Student_1805,3.74,Data Science,Sophomore,40
+S01811,Student_1811,3.73,Data Science,Junior,52
+S01813,Student_1813,3.57,IT,Junior,47
+S01814,Student_1814,3.53,Data Science,Freshman,89
+S01821,Student_1821,3.73,AI,Junior,51
+S01823,Student_1823,3.54,SE,Sophomore,125
+S01827,Student_1827,3.6,IT,Freshman,102
+S01836,Student_1836,3.61,Finance,Senior,72
+S01845,Student_1845,3.92,AI,Sophomore,63
+S01849,Student_1849,3.92,SE,Freshman,87
+S01851,Student_1851,3.59,Business,Junior,11
+S01860,Student_1860,3.65,Data Science,Sophomore,6
+S01861,Student_1861,3.51,AI,Sophomore,31
+S01871,Student_1871,3.75,SE,Sophomore,34
+S01872,Student_1872,3.93,IT,Senior,8
+S01873,Student_1873,3.93,AI,Junior,100
+S01879,Student_1879,3.9,SE,Sophomore,19
+S01887,Student_1887,3.92,Finance,Junior,90
+S01908,Student_1908,3.87,AI,Sophomore,89
+S01909,Student_1909,3.65,Business,Sophomore,59
+S01927,Student_1927,3.6,SE,Sophomore,25
+S01928,Student_1928,3.54,CS,Freshman,140
+S01930,Student_1930,3.94,Data Science,Senior,1
+S01931,Student_1931,3.81,CS,Junior,80
+S01937,Student_1937,3.55,Data Science,Sophomore,84
+S01944,Student_1944,3.55,Data Science,Freshman,109
+S01945,Student_1945,3.83,Data Science,Junior,11
+S01956,Student_1956,3.87,Business,Freshman,4
+S01957,Student_1957,3.88,IT,Junior,8
+S01969,Student_1969,3.63,CS,Sophomore,126
+S01971,Student_1971,3.58,Business,Senior,133
+S01973,Student_1973,3.77,Business,Junior,136
+S01979,Student_1979,3.85,IT,Senior,17
+S01987,Student_1987,3.52,IT,Senior,70
+S01996,Student_1996,3.8,Data Science,Junior,15
+S02001,Student_2001,3.77,AI,Senior,2
+S02003,Student_2003,3.83,Data Science,Sophomore,23
+S02008,Student_2008,3.79,Business,Freshman,55
+S02019,Student_2019,3.58,Data Science,Senior,67
+S02023,Student_2023,3.76,CS,Junior,97
+S02029,Student_2029,3.65,CS,Freshman,130
+S02037,Student_2037,3.73,AI,Senior,130
+S02047,Student_2047,3.61,Finance,Sophomore,120
+S02049,Student_2049,3.87,AI,Senior,99
+S02055,Student_2055,3.93,AI,Sophomore,112
+S02056,Student_2056,3.53,Finance,Junior,42
+S02066,Student_2066,3.6,Data Science,Senior,58
+S02067,Student_2067,3.84,Business,Freshman,92
+S02073,Student_2073,3.73,CS,Junior,60
+S02085,Student_2085,3.99,CS,Sophomore,86
+S02088,Student_2088,3.72,SE,Sophomore,29
+S02093,Student_2093,3.63,AI,Freshman,99
+S02100,Student_2100,3.6,AI,Sophomore,113
+S02101,Student_2101,3.85,Finance,Senior,104
+S02105,Student_2105,3.58,CS,Freshman,134
+S02115,Student_2115,3.94,SE,Junior,5
+S02116,Student_2116,3.6,CS,Sophomore,33
+S02119,Student_2119,3.92,Business,Junior,84
+S02122,Student_2122,3.8,Data Science,Senior,60
+S02123,Student_2123,3.64,Finance,Junior,26
+S02128,Student_2128,3.76,Finance,Freshman,98
+S02131,Student_2131,3.64,Finance,Junior,35
+S02136,Student_2136,4.0,CS,Senior,92
+S02150,Student_2150,3.96,SE,Freshman,91
+S02155,Student_2155,3.71,Business,Junior,60
+S02160,Student_2160,3.85,SE,Senior,52
+S02162,Student_2162,3.96,AI,Sophomore,75
+S02166,Student_2166,3.95,Data Science,Sophomore,71
+S02167,Student_2167,3.97,SE,Sophomore,134
+S02173,Student_2173,3.57,Finance,Sophomore,27
+S02184,Student_2184,3.55,AI,Freshman,82
+S02188,Student_2188,3.71,Business,Sophomore,136
+S02190,Student_2190,3.83,SE,Freshman,121
+S02191,Student_2191,3.68,Data Science,Junior,45
+S02193,Student_2193,3.57,IT,Junior,135
+S02206,Student_2206,3.73,AI,Junior,41
+S02212,Student_2212,3.87,SE,Sophomore,52
+S02218,Student_2218,3.72,SE,Junior,132
+S02221,Student_2221,3.6,CS,Sophomore,105
+S02222,Student_2222,3.75,Business,Freshman,50
+S02223,Student_2223,3.87,IT,Freshman,125
+S02224,Student_2224,3.63,AI,Sophomore,77
+S02225,Student_2225,3.57,CS,Freshman,47
+S02227,Student_2227,3.68,IT,Senior,59
+S02229,Student_2229,3.94,CS,Senior,1
+S02238,Student_2238,3.53,Finance,Freshman,8
+S02239,Student_2239,3.84,AI,Sophomore,65
+S02240,Student_2240,3.86,SE,Junior,92
+S02243,Student_2243,3.79,CS,Freshman,125
+S02251,Student_2251,3.77,CS,Junior,55
+S02256,Student_2256,3.95,Business,Junior,95
+S02258,Student_2258,3.72,IT,Sophomore,44
+S02261,Student_2261,3.86,Business,Senior,30
+S02263,Student_2263,3.52,CS,Senior,121
+S02280,Student_2280,3.73,CS,Senior,44
+S02286,Student_2286,4.0,Finance,Junior,103
+S02290,Student_2290,3.97,Business,Freshman,110
+S02291,Student_2291,3.64,Business,Freshman,82
+S02303,Student_2303,3.86,IT,Junior,13
+S02309,Student_2309,3.7,Business,Senior,4
+S02318,Student_2318,3.83,IT,Sophomore,133
+S02328,Student_2328,3.91,Business,Senior,120
+S02333,Student_2333,3.85,SE,Junior,10
+S02341,Student_2341,3.9,Business,Freshman,11
+S02343,Student_2343,3.74,CS,Senior,45
+S02346,Student_2346,3.56,IT,Junior,6
+S02350,Student_2350,3.62,AI,Junior,28
+S02355,Student_2355,3.52,Finance,Junior,136
+S02360,Student_2360,3.64,Data Science,Junior,121
+S02369,Student_2369,3.91,SE,Freshman,36
+S02370,Student_2370,3.66,Data Science,Junior,8
+S02373,Student_2373,3.51,Business,Sophomore,63
+S02377,Student_2377,3.64,Data Science,Junior,13
+S02385,Student_2385,3.68,SE,Junior,86
+S02391,Student_2391,3.79,Data Science,Junior,104
+S02398,Student_2398,3.96,AI,Freshman,127
+S02400,Student_2400,3.56,AI,Junior,16
+S02410,Student_2410,3.65,Data Science,Junior,139
+S02413,Student_2413,3.68,AI,Junior,79
+S02414,Student_2414,3.9,IT,Senior,40
+S02417,Student_2417,3.58,Business,Freshman,4
+S02423,Student_2423,3.52,Business,Freshman,48
+S02424,Student_2424,3.75,Business,Sophomore,14
+S02440,Student_2440,3.51,CS,Sophomore,61
+S02442,Student_2442,3.76,IT,Senior,133
+S02446,Student_2446,3.89,Finance,Senior,120
+S02450,Student_2450,3.58,AI,Freshman,61
+S02453,Student_2453,3.93,Finance,Freshman,35
+S02467,Student_2467,3.59,CS,Senior,131
+S02469,Student_2469,3.97,CS,Senior,19
+S02470,Student_2470,3.84,CS,Junior,73
+S02477,Student_2477,3.95,Finance,Senior,48
+S02482,Student_2482,3.78,SE,Senior,78
+S02485,Student_2485,3.78,Finance,Freshman,28
+S02489,Student_2489,3.64,Data Science,Freshman,60
+S02491,Student_2491,3.75,CS,Junior,123
+S02495,Student_2495,3.51,SE,Senior,13
+S02499,Student_2499,3.66,SE,Junior,83
+S02501,Student_2501,3.65,Business,Freshman,81
+S02503,Student_2503,3.71,Finance,Freshman,46
+S02506,Student_2506,3.84,AI,Junior,137
+S02507,Student_2507,3.52,CS,Sophomore,94
+S02511,Student_2511,3.58,AI,Freshman,41
+S02515,Student_2515,3.97,Finance,Senior,39
+S02518,Student_2518,3.59,Data Science,Freshman,54
+S02527,Student_2527,3.83,SE,Sophomore,95
+S02528,Student_2528,3.93,SE,Sophomore,2
+S02535,Student_2535,3.99,AI,Sophomore,56
+S02537,Student_2537,3.53,SE,Senior,90
+S02538,Student_2538,3.97,IT,Junior,58
+S02539,Student_2539,3.78,Finance,Sophomore,100
+S02547,Student_2547,3.59,Business,Junior,123
+S02550,Student_2550,3.79,Business,Freshman,61
+S02556,Student_2556,3.95,Business,Sophomore,30
+S02564,Student_2564,3.99,AI,Senior,39
+S02566,Student_2566,3.9,CS,Sophomore,70
+S02573,Student_2573,3.65,SE,Freshman,27
+S02576,Student_2576,3.83,IT,Senior,119
+S02578,Student_2578,3.56,Business,Junior,51
+S02583,Student_2583,3.67,SE,Junior,88
+S02585,Student_2585,3.61,AI,Senior,133
+S02596,Student_2596,3.7,CS,Junior,5
+S02602,Student_2602,3.85,AI,Sophomore,70
+S02603,Student_2603,3.65,IT,Sophomore,92
+S02606,Student_2606,3.64,Data Science,Freshman,63
+S02610,Student_2610,3.52,Data Science,Sophomore,19
+S02614,Student_2614,3.74,IT,Senior,10
+S02615,Student_2615,3.59,CS,Junior,73
+S02618,Student_2618,3.59,Business,Junior,81
+S02621,Student_2621,3.75,Data Science,Sophomore,39
+S02624,Student_2624,3.95,CS,Junior,2
+S02626,Student_2626,3.72,IT,Freshman,138
+S02628,Student_2628,3.66,CS,Junior,8
+S02630,Student_2630,3.93,SE,Senior,44
+S02639,Student_2639,3.64,Data Science,Freshman,136
+S02652,Student_2652,3.69,SE,Junior,83
+S02659,Student_2659,3.91,Business,Junior,99
+S02665,Student_2665,3.69,SE,Junior,80
+S02666,Student_2666,3.96,IT,Sophomore,125
+S02670,Student_2670,3.97,SE,Sophomore,77
+S02676,Student_2676,3.94,AI,Junior,48
+S02684,Student_2684,3.77,SE,Sophomore,113
+S02687,Student_2687,3.99,CS,Senior,123
+S02689,Student_2689,3.51,Data Science,Sophomore,40
+S02692,Student_2692,3.72,Data Science,Sophomore,57
+S02693,Student_2693,3.52,Finance,Junior,94
+S02697,Student_2697,3.65,SE,Senior,37
+S02711,Student_2711,3.73,SE,Junior,111
+S02712,Student_2712,3.61,Data Science,Junior,86
+S02732,Student_2732,3.81,Data Science,Senior,109
+S02737,Student_2737,3.53,SE,Junior,83
+S02738,Student_2738,3.59,IT,Freshman,75
+S02739,Student_2739,3.84,SE,Junior,117
+S02745,Student_2745,3.76,IT,Junior,108
+S02746,Student_2746,3.71,Finance,Freshman,133
+S02760,Student_2760,3.58,CS,Senior,137
+S02764,Student_2764,3.82,Business,Junior,128
+S02767,Student_2767,3.55,Data Science,Junior,130
+S02778,Student_2778,3.88,Business,Freshman,130
+S02783,Student_2783,3.59,SE,Senior,36
+S02785,Student_2785,3.67,Data Science,Junior,129
+S02792,Student_2792,3.62,AI,Freshman,11
+S02806,Student_2806,3.97,Data Science,Sophomore,2
+S02813,Student_2813,3.89,IT,Freshman,103
+S02816,Student_2816,3.65,Business,Junior,6
+S02821,Student_2821,3.64,Data Science,Junior,33
+S02829,Student_2829,3.75,Data Science,Junior,58
+S02830,Student_2830,3.7,SE,Freshman,33
+S02831,Student_2831,3.71,SE,Junior,73
+S02835,Student_2835,3.79,IT,Sophomore,126
+S02839,Student_2839,3.93,Business,Junior,17
+S02840,Student_2840,3.99,Data Science,Senior,102
+S02841,Student_2841,3.55,SE,Junior,96
+S02853,Student_2853,3.53,AI,Senior,96
+S02863,Student_2863,3.99,Data Science,Senior,39
+S02868,Student_2868,4.0,IT,Sophomore,29
+S02871,Student_2871,3.53,Data Science,Senior,128
+S02875,Student_2875,3.64,Finance,Senior,20
+S02881,Student_2881,3.72,Finance,Sophomore,36
+S02884,Student_2884,3.68,Finance,Sophomore,66
+S02885,Student_2885,3.6,SE,Sophomore,11
+S02886,Student_2886,3.9,Finance,Freshman,78
+S02887,Student_2887,3.85,SE,Sophomore,49
+S02895,Student_2895,3.57,Business,Sophomore,83
+S02899,Student_2899,3.77,Business,Junior,130
+S02903,Student_2903,3.72,Data Science,Senior,39
+S02905,Student_2905,3.67,IT,Senior,136
+S02917,Student_2917,3.69,Finance,Sophomore,66
+S02923,Student_2923,3.54,AI,Freshman,67
+S02933,Student_2933,3.74,Finance,Junior,130
+S02937,Student_2937,3.9,Finance,Sophomore,90
+S02944,Student_2944,3.66,CS,Freshman,32
+S02945,Student_2945,3.77,CS,Senior,85
+S02949,Student_2949,3.72,Data Science,Senior,90
+S02955,Student_2955,3.54,AI,Freshman,90
+S02958,Student_2958,3.75,IT,Freshman,87
+S02971,Student_2971,3.69,Finance,Senior,55
+S02972,Student_2972,3.88,SE,Junior,101
+S02974,Student_2974,3.88,Data Science,Junior,60
+S02984,Student_2984,3.83,AI,Senior,64
+S02991,Student_2991,3.65,Business,Junior,93
+S02992,Student_2992,3.6,Business,Senior,94
+S03006,Student_3006,3.61,Finance,Senior,62
+S03017,Student_3017,4.0,SE,Senior,106
+S03023,Student_3023,3.71,SE,Junior,95
+S03025,Student_3025,3.99,Data Science,Junior,94
+S03034,Student_3034,3.65,Business,Junior,104
+S03039,Student_3039,3.67,Business,Freshman,50
+S03040,Student_3040,3.88,IT,Junior,106
+S03042,Student_3042,3.69,SE,Freshman,35
+S03047,Student_3047,3.75,SE,Junior,128
+S03048,Student_3048,3.82,Business,Senior,33
+S03049,Student_3049,3.88,Finance,Sophomore,94
+S03050,Student_3050,3.63,IT,Freshman,110
+S03051,Student_3051,3.88,SE,Junior,82
+S03054,Student_3054,3.64,CS,Sophomore,32
+S03059,Student_3059,3.73,Finance,Senior,132
+S03060,Student_3060,3.89,Business,Sophomore,49
+S03066,Student_3066,3.79,SE,Junior,123
+S03079,Student_3079,3.51,AI,Freshman,2
+S03085,Student_3085,3.8,Data Science,Freshman,3
+S03096,Student_3096,3.61,Data Science,Junior,34
+S03098,Student_3098,3.75,IT,Junior,109
+S03103,Student_3103,3.84,CS,Freshman,109
+S03126,Student_3126,3.92,Data Science,Sophomore,87
+S03140,Student_3140,3.68,CS,Freshman,62
+S03145,Student_3145,3.58,CS,Freshman,36
+S03155,Student_3155,3.96,CS,Sophomore,50
+S03156,Student_3156,3.81,CS,Freshman,88
+S03160,Student_3160,3.65,AI,Sophomore,97
+S03169,Student_3169,3.92,Finance,Junior,140
+S03177,Student_3177,3.56,Finance,Junior,16
+S03180,Student_3180,3.54,Data Science,Sophomore,121
+S03182,Student_3182,3.83,CS,Freshman,121
+S03197,Student_3197,3.57,Finance,Freshman,134
+S03198,Student_3198,3.91,Business,Junior,67
+S03205,Student_3205,3.98,SE,Junior,22
+S03218,Student_3218,3.71,CS,Sophomore,84
+S03228,Student_3228,3.9,CS,Senior,38
+S03229,Student_3229,3.92,CS,Sophomore,52
+S03236,Student_3236,3.88,AI,Junior,79
+S03239,Student_3239,3.59,Data Science,Freshman,86
+S03246,Student_3246,3.54,SE,Senior,126
+S03251,Student_3251,3.78,Finance,Sophomore,10
+S03255,Student_3255,3.75,Finance,Junior,27
+S03261,Student_3261,3.7,AI,Sophomore,121
+S03270,Student_3270,3.51,Business,Senior,17
+S03274,Student_3274,3.89,AI,Freshman,78
+S03275,Student_3275,3.9,SE,Sophomore,86
+S03276,Student_3276,3.55,Business,Freshman,22
+S03278,Student_3278,3.59,SE,Senior,28
+S03290,Student_3290,3.63,Finance,Freshman,68
+S03293,Student_3293,3.89,Finance,Sophomore,80
+S03301,Student_3301,3.58,Business,Senior,35
+S03304,Student_3304,3.55,SE,Sophomore,96
+S03310,Student_3310,3.53,CS,Sophomore,74
+S03314,Student_3314,3.79,CS,Junior,24
+S03315,Student_3315,3.78,AI,Junior,137
+S03316,Student_3316,3.59,Data Science,Freshman,101
+S03323,Student_3323,3.54,Finance,Sophomore,76
+S03339,Student_3339,3.58,Finance,Freshman,16
+S03344,Student_3344,3.77,AI,Freshman,46
+S03345,Student_3345,3.61,IT,Senior,119
+S03347,Student_3347,3.94,Finance,Junior,5
+S03353,Student_3353,3.69,IT,Junior,121
+S03370,Student_3370,3.91,SE,Freshman,136
+S03371,Student_3371,3.51,IT,Junior,109
+S03372,Student_3372,3.62,Business,Sophomore,80
+S03373,Student_3373,3.59,IT,Senior,29
+S03376,Student_3376,3.75,IT,Sophomore,91
+S03378,Student_3378,3.58,Data Science,Senior,121
+S03381,Student_3381,3.93,AI,Freshman,25
+S03388,Student_3388,3.76,Business,Senior,106
+S03395,Student_3395,3.89,Business,Freshman,136
+S03397,Student_3397,3.98,Business,Freshman,103
+S03399,Student_3399,3.56,Data Science,Sophomore,77
+S03407,Student_3407,3.52,Data Science,Senior,49
+S03408,Student_3408,3.55,Business,Senior,139
+S03409,Student_3409,3.67,Data Science,Senior,127
+S03422,Student_3422,3.99,Finance,Sophomore,104
+S03423,Student_3423,3.87,Data Science,Senior,123
+S03430,Student_3430,3.56,IT,Freshman,12
+S03433,Student_3433,3.51,IT,Senior,93
+S03435,Student_3435,3.98,IT,Freshman,12
+S03438,Student_3438,3.55,SE,Freshman,22
+S03444,Student_3444,3.66,AI,Sophomore,43
+S03451,Student_3451,3.6,Business,Senior,19
+S03459,Student_3459,3.61,IT,Sophomore,60
+S03468,Student_3468,3.65,AI,Sophomore,58
+S03471,Student_3471,3.93,AI,Senior,43
+S03479,Student_3479,3.69,SE,Junior,10
+S03484,Student_3484,3.94,Business,Sophomore,117
+S03488,Student_3488,3.83,Business,Sophomore,10
+S03496,Student_3496,3.97,CS,Junior,16
+S03498,Student_3498,4.0,CS,Freshman,58
+S03503,Student_3503,3.51,SE,Sophomore,128
+S03507,Student_3507,3.73,Business,Freshman,68
+S03509,Student_3509,3.99,CS,Senior,15
+S03511,Student_3511,3.84,Data Science,Senior,86
+S03519,Student_3519,3.89,Business,Senior,128
+S03523,Student_3523,3.91,CS,Senior,133
+S03526,Student_3526,3.78,Data Science,Senior,88
+S03527,Student_3527,3.74,SE,Freshman,0
+S03528,Student_3528,3.74,IT,Senior,17
+S03534,Student_3534,3.81,Finance,Junior,11
+S03541,Student_3541,3.92,Finance,Junior,80
+S03544,Student_3544,3.64,CS,Freshman,79
+S03547,Student_3547,3.83,IT,Freshman,78
+S03552,Student_3552,3.68,CS,Sophomore,13
+S03562,Student_3562,3.91,CS,Freshman,59
+S03564,Student_3564,3.88,Data Science,Sophomore,109
+S03565,Student_3565,3.67,IT,Senior,109
+S03574,Student_3574,3.61,SE,Sophomore,42
+S03575,Student_3575,3.76,CS,Junior,100
+S03578,Student_3578,3.64,CS,Senior,107
+S03582,Student_3582,3.59,AI,Senior,39
+S03583,Student_3583,3.86,Business,Freshman,3
+S03595,Student_3595,3.56,Business,Freshman,52
+S03608,Student_3608,3.52,CS,Senior,89
+S03609,Student_3609,3.63,Data Science,Sophomore,71
+S03618,Student_3618,3.81,CS,Senior,106
+S03623,Student_3623,3.68,SE,Junior,8
+S03624,Student_3624,3.98,AI,Junior,27
+S03625,Student_3625,3.92,Data Science,Junior,119
+S03627,Student_3627,3.96,Business,Sophomore,30
+S03629,Student_3629,3.93,CS,Sophomore,63
+S03639,Student_3639,3.65,IT,Junior,119
+S03640,Student_3640,3.88,AI,Junior,105
+S03642,Student_3642,3.8,CS,Junior,124
+S03644,Student_3644,3.79,Business,Junior,32
+S03645,Student_3645,4.0,AI,Senior,20
+S03651,Student_3651,3.82,SE,Senior,127
+S03654,Student_3654,3.51,Finance,Junior,44
+S03657,Student_3657,3.59,Finance,Sophomore,113
+S03658,Student_3658,3.59,AI,Freshman,122
+S03659,Student_3659,3.52,Data Science,Senior,87
+S03666,Student_3666,3.75,IT,Freshman,68
+S03671,Student_3671,3.86,Business,Senior,115
+S03687,Student_3687,3.76,CS,Sophomore,35
+S03688,Student_3688,3.62,Business,Sophomore,99
+S03689,Student_3689,3.94,Business,Junior,90
+S03694,Student_3694,3.72,Data Science,Junior,19
+S03697,Student_3697,4.0,Finance,Sophomore,123
+S03703,Student_3703,3.91,Data Science,Sophomore,18
+S03704,Student_3704,3.64,CS,Junior,79
+S03705,Student_3705,3.83,CS,Sophomore,78
+S03706,Student_3706,3.58,AI,Senior,57
+S03710,Student_3710,3.6,Finance,Sophomore,125
+S03713,Student_3713,3.53,AI,Sophomore,68
+S03720,Student_3720,3.98,AI,Freshman,87
+S03722,Student_3722,3.88,SE,Junior,77
+S03726,Student_3726,3.6,Finance,Junior,8
+S03727,Student_3727,3.8,CS,Senior,97
+S03733,Student_3733,3.86,Data Science,Junior,19
+S03751,Student_3751,3.56,Finance,Freshman,121
+S03763,Student_3763,3.57,SE,Sophomore,119
+S03766,Student_3766,3.6,IT,Junior,60
+S03768,Student_3768,3.69,Finance,Sophomore,127
+S03775,Student_3775,3.64,Business,Junior,138
+S03785,Student_3785,3.91,SE,Sophomore,7
+S03786,Student_3786,4.0,AI,Sophomore,60
+S03789,Student_3789,3.59,Data Science,Junior,45
+S03792,Student_3792,3.95,CS,Freshman,59
+S03811,Student_3811,3.71,Data Science,Senior,82
+S03814,Student_3814,3.77,SE,Sophomore,93
+S03821,Student_3821,3.68,Business,Junior,99
+S03823,Student_3823,3.56,CS,Sophomore,68
+S03827,Student_3827,3.72,IT,Freshman,6
+S03832,Student_3832,3.96,Business,Freshman,93
+S03837,Student_3837,3.95,IT,Sophomore,124
+S03838,Student_3838,3.68,IT,Junior,118
+S03840,Student_3840,3.72,SE,Junior,62
+S03841,Student_3841,3.94,IT,Freshman,2
+S03846,Student_3846,3.61,Finance,Freshman,18
+S03851,Student_3851,3.69,Business,Junior,60
+S03855,Student_3855,3.61,AI,Junior,119
+S03857,Student_3857,3.55,SE,Freshman,70
+S03860,Student_3860,3.84,IT,Junior,76
+S03861,Student_3861,3.88,Finance,Sophomore,56
+S03863,Student_3863,3.95,AI,Freshman,131
+S03869,Student_3869,3.74,CS,Senior,76
+S03875,Student_3875,3.72,AI,Sophomore,101
+S03891,Student_3891,3.92,SE,Sophomore,136
+S03900,Student_3900,4.0,AI,Freshman,79
+S03906,Student_3906,3.68,CS,Sophomore,42
+S03907,Student_3907,3.91,SE,Freshman,133
+S03908,Student_3908,3.55,IT,Sophomore,26
+S03915,Student_3915,3.54,Finance,Freshman,115
+S03917,Student_3917,3.99,IT,Sophomore,16
+S03918,Student_3918,3.61,Business,Senior,104
+S03924,Student_3924,3.77,SE,Freshman,76
+S03925,Student_3925,3.95,SE,Sophomore,67
+S03934,Student_3934,3.51,Business,Sophomore,34
+S03936,Student_3936,3.92,AI,Freshman,60
+S03940,Student_3940,3.83,IT,Senior,119
+S03944,Student_3944,3.68,IT,Senior,95
+S03945,Student_3945,3.96,IT,Sophomore,11
+S03950,Student_3950,3.72,AI,Senior,105
+S03960,Student_3960,3.52,SE,Junior,51
+S03961,Student_3961,3.85,Data Science,Junior,71
+S03964,Student_3964,3.62,CS,Senior,22
+S03966,Student_3966,3.95,CS,Junior,85
+S03976,Student_3976,3.64,CS,Junior,50
+S03979,Student_3979,3.56,Business,Junior,59
+S03980,Student_3980,3.86,Business,Sophomore,48
+S03981,Student_3981,3.79,Finance,Junior,114
+S03982,Student_3982,3.51,AI,Senior,101
+S03983,Student_3983,3.57,AI,Sophomore,43
+S03984,Student_3984,3.53,Business,Freshman,55
+S03988,Student_3988,3.67,Business,Junior,24
+S03993,Student_3993,3.78,CS,Freshman,47
+S03999,Student_3999,3.58,CS,Junior,126
+S04004,Student_4004,3.76,IT,Freshman,88
+S04005,Student_4005,3.52,AI,Freshman,90
+S04010,Student_4010,3.72,Business,Freshman,109
+S04013,Student_4013,3.72,IT,Senior,82
+S04016,Student_4016,3.74,Data Science,Senior,98
+S04020,Student_4020,3.88,IT,Sophomore,136
+S04032,Student_4032,3.96,Data Science,Freshman,49
+S04033,Student_4033,3.9,SE,Senior,81
+S04039,Student_4039,4.0,Data Science,Senior,126
+S04040,Student_4040,3.94,Finance,Junior,8
+S04041,Student_4041,3.77,IT,Freshman,42
+S04048,Student_4048,3.53,SE,Sophomore,89
+S04050,Student_4050,3.6,IT,Freshman,34
+S04055,Student_4055,3.75,Data Science,Sophomore,37
+S04067,Student_4067,3.93,SE,Senior,38
+S04072,Student_4072,3.62,Business,Sophomore,132
+S04073,Student_4073,3.73,Data Science,Senior,1
+S04077,Student_4077,3.99,CS,Senior,37
+S04097,Student_4097,3.92,AI,Freshman,69
+S04100,Student_4100,3.8,SE,Sophomore,8
+S04112,Student_4112,3.76,Business,Sophomore,12
+S04113,Student_4113,3.76,Finance,Sophomore,139
+S04114,Student_4114,3.64,SE,Freshman,77
+S04115,Student_4115,3.94,Finance,Junior,3
+S04119,Student_4119,3.8,Data Science,Junior,96
+S04124,Student_4124,3.7,SE,Senior,139
+S04128,Student_4128,3.7,IT,Senior,52
+S04129,Student_4129,3.69,Business,Junior,85
+S04131,Student_4131,3.82,SE,Freshman,117
+S04132,Student_4132,3.72,SE,Freshman,92
+S04134,Student_4134,3.6,Finance,Senior,137
+S04140,Student_4140,4.0,AI,Sophomore,111
+S04142,Student_4142,3.81,Finance,Junior,40
+S04143,Student_4143,3.94,AI,Freshman,82
+S04144,Student_4144,3.81,SE,Freshman,128
+S04148,Student_4148,3.96,Finance,Sophomore,62
+S04159,Student_4159,3.94,AI,Senior,115
+S04161,Student_4161,3.75,Finance,Senior,68
+S04163,Student_4163,3.7,SE,Junior,59
+S04165,Student_4165,3.62,IT,Senior,134
+S04167,Student_4167,3.6,Business,Freshman,68
+S04168,Student_4168,3.59,SE,Junior,111
+S04174,Student_4174,3.82,Finance,Freshman,71
+S04176,Student_4176,3.54,Finance,Freshman,82
+S04177,Student_4177,3.87,CS,Sophomore,73
+S04180,Student_4180,3.73,Finance,Sophomore,92
+S04181,Student_4181,3.75,IT,Freshman,1
+S04188,Student_4188,3.7,Business,Sophomore,46
+S04189,Student_4189,3.59,AI,Junior,77
+S04190,Student_4190,3.63,Business,Senior,90
+S04198,Student_4198,3.9,Business,Sophomore,131
+S04206,Student_4206,3.59,IT,Freshman,78
+S04207,Student_4207,3.63,SE,Junior,61
+S04210,Student_4210,3.71,CS,Freshman,45
+S04212,Student_4212,3.66,Business,Senior,79
+S04219,Student_4219,3.73,Business,Freshman,107
+S04224,Student_4224,3.73,IT,Sophomore,16
+S04243,Student_4243,3.94,CS,Senior,79
+S04244,Student_4244,3.89,AI,Junior,118
+S04248,Student_4248,3.76,IT,Junior,13
+S04249,Student_4249,3.59,Data Science,Sophomore,11
+S04252,Student_4252,3.71,AI,Sophomore,116
+S04257,Student_4257,3.85,Finance,Junior,64
+S04260,Student_4260,3.73,Data Science,Freshman,121
+S04270,Student_4270,3.92,Finance,Junior,98
+S04273,Student_4273,3.97,IT,Sophomore,25
+S04276,Student_4276,3.9,Finance,Freshman,3
+S04279,Student_4279,3.94,Data Science,Junior,63
+S04281,Student_4281,3.51,IT,Junior,106
+S04289,Student_4289,3.77,CS,Freshman,140
+S04300,Student_4300,3.75,Data Science,Junior,59
+S04301,Student_4301,3.65,CS,Freshman,1
+S04302,Student_4302,3.65,CS,Freshman,34
+S04305,Student_4305,3.7,Business,Freshman,53
+S04323,Student_4323,3.75,CS,Sophomore,113
+S04331,Student_4331,3.65,CS,Sophomore,95
+S04337,Student_4337,3.56,CS,Senior,131
+S04340,Student_4340,3.86,AI,Junior,121
+S04342,Student_4342,3.64,IT,Junior,106
+S04344,Student_4344,3.51,Business,Freshman,96
+S04345,Student_4345,3.73,IT,Sophomore,15
+S04346,Student_4346,3.88,Data Science,Freshman,4
+S04349,Student_4349,3.94,Finance,Freshman,101
+S04356,Student_4356,3.83,SE,Junior,44
+S04364,Student_4364,3.75,Finance,Junior,105
+S04389,Student_4389,3.85,CS,Freshman,112
+S04394,Student_4394,4.0,AI,Freshman,47
+S04395,Student_4395,3.81,Finance,Sophomore,114
+S04397,Student_4397,3.69,Data Science,Sophomore,97
+S04404,Student_4404,3.75,Business,Senior,119
+S04411,Student_4411,3.66,AI,Senior,132
+S04420,Student_4420,3.7,Data Science,Senior,123
+S04421,Student_4421,3.77,CS,Junior,67
+S04425,Student_4425,3.87,Business,Sophomore,15
+S04426,Student_4426,3.74,Data Science,Sophomore,124
+S04427,Student_4427,3.64,Business,Sophomore,89
+S04435,Student_4435,3.93,Finance,Senior,12
+S04444,Student_4444,3.82,Finance,Sophomore,44
+S04447,Student_4447,3.95,AI,Freshman,127
+S04458,Student_4458,3.63,SE,Freshman,21
+S04470,Student_4470,3.65,SE,Junior,45
+S04474,Student_4474,3.9,AI,Senior,78
+S04481,Student_4481,3.66,SE,Senior,138
+S04486,Student_4486,3.89,Finance,Junior,12
+S04491,Student_4491,3.58,Data Science,Junior,124
+S04502,Student_4502,3.72,SE,Junior,84
+S04504,Student_4504,3.66,IT,Freshman,88
+S04506,Student_4506,3.71,Data Science,Sophomore,86
+S04511,Student_4511,3.74,Business,Sophomore,3
+S04514,Student_4514,3.96,Business,Freshman,18
+S04518,Student_4518,3.93,Business,Senior,18
+S04525,Student_4525,3.82,SE,Freshman,58
+S04527,Student_4527,3.61,Data Science,Sophomore,87
+S04529,Student_4529,3.76,Finance,Senior,54
+S04534,Student_4534,3.78,CS,Senior,32
+S04544,Student_4544,3.69,AI,Senior,114
+S04547,Student_4547,3.75,Finance,Junior,37
+S04551,Student_4551,3.55,Business,Junior,130
+S04555,Student_4555,3.64,AI,Senior,18
+S04556,Student_4556,3.9,Data Science,Freshman,48
+S04558,Student_4558,3.74,SE,Sophomore,132
+S04561,Student_4561,3.73,Finance,Senior,117
+S04564,Student_4564,3.93,Business,Freshman,112
+S04567,Student_4567,3.74,AI,Senior,58
+S04574,Student_4574,3.93,CS,Freshman,50
+S04576,Student_4576,3.98,Business,Freshman,133
+S04579,Student_4579,3.63,Business,Sophomore,74
+S04582,Student_4582,3.94,Data Science,Sophomore,103
+S04584,Student_4584,3.75,Business,Sophomore,12
+S04587,Student_4587,3.92,IT,Junior,139
+S04593,Student_4593,3.78,SE,Freshman,81
+S04595,Student_4595,3.84,IT,Senior,87
+S04599,Student_4599,3.55,SE,Freshman,75
+S04624,Student_4624,3.91,SE,Senior,33
+S04625,Student_4625,3.6,Finance,Junior,97
+S04626,Student_4626,3.82,SE,Freshman,78
+S04638,Student_4638,3.51,AI,Senior,87
+S04648,Student_4648,3.64,CS,Sophomore,33
+S04652,Student_4652,3.62,CS,Senior,78
+S04661,Student_4661,3.79,SE,Junior,96
+S04665,Student_4665,3.78,SE,Senior,76
+S04666,Student_4666,3.88,IT,Sophomore,84
+S04674,Student_4674,3.92,CS,Sophomore,62
+S04683,Student_4683,3.86,Data Science,Sophomore,34
+S04684,Student_4684,3.71,SE,Freshman,118
+S04691,Student_4691,3.66,AI,Freshman,137
+S04694,Student_4694,3.84,CS,Sophomore,113
+S04700,Student_4700,3.56,AI,Freshman,100
+S04704,Student_4704,3.55,AI,Senior,38
+S04707,Student_4707,3.8,CS,Junior,34
+S04712,Student_4712,3.52,SE,Junior,32
+S04730,Student_4730,3.99,SE,Sophomore,38
+S04735,Student_4735,3.51,IT,Junior,114
+S04736,Student_4736,3.97,CS,Sophomore,128
+S04739,Student_4739,3.94,Data Science,Junior,0
+S04744,Student_4744,3.92,AI,Freshman,44
+S04760,Student_4760,3.83,CS,Junior,112
+S04762,Student_4762,3.8,CS,Junior,116
+S04763,Student_4763,3.78,AI,Freshman,56
+S04770,Student_4770,3.8,CS,Junior,78
+S04776,Student_4776,3.66,AI,Freshman,70
+S04778,Student_4778,3.83,IT,Freshman,13
+S04780,Student_4780,3.82,CS,Junior,123
+S04781,Student_4781,3.76,IT,Senior,12
+S04792,Student_4792,3.77,Data Science,Freshman,77
+S04794,Student_4794,3.76,SE,Junior,18
+S04801,Student_4801,3.78,Business,Senior,60
+S04811,Student_4811,3.6,SE,Freshman,41
+S04818,Student_4818,3.97,Data Science,Freshman,78
+S04820,Student_4820,3.9,Finance,Junior,23
+S04826,Student_4826,3.86,Finance,Senior,14
+S04827,Student_4827,3.61,Data Science,Freshman,63
+S04835,Student_4835,4.0,IT,Senior,41
+S04856,Student_4856,3.53,IT,Freshman,108
+S04870,Student_4870,3.63,IT,Senior,139
+S04871,Student_4871,3.83,CS,Sophomore,51
+S04872,Student_4872,3.96,IT,Senior,95
+S04891,Student_4891,3.97,CS,Senior,113
+S04902,Student_4902,3.91,IT,Junior,105
+S04908,Student_4908,3.58,Business,Freshman,61
+S04914,Student_4914,3.97,SE,Junior,114
+S04922,Student_4922,3.77,Data Science,Senior,117
+S04923,Student_4923,3.56,Business,Sophomore,133
+S04928,Student_4928,3.59,Data Science,Junior,109
+S04940,Student_4940,3.9,SE,Junior,5
+S04946,Student_4946,3.6,Data Science,Senior,48
+S04959,Student_4959,3.95,Business,Senior,31
+S04969,Student_4969,3.96,CS,Senior,105
+S04982,Student_4982,3.51,Business,Senior,110
+S04983,Student_4983,3.74,Business,Freshman,86
+S04990,Student_4990,3.58,Finance,Sophomore,18
+S05029,Student_5029,3.88,SE,Freshman,57
+S05032,Student_5032,3.66,Business,Senior,68
+S05035,Student_5035,3.83,CS,Freshman,5
+S05038,Student_5038,3.97,IT,Sophomore,15
+S05045,Student_5045,3.64,Business,Sophomore,54
+S05050,Student_5050,3.86,SE,Freshman,73
+S05051,Student_5051,3.6,Business,Senior,85
+S05057,Student_5057,3.73,IT,Senior,112
+S05058,Student_5058,3.72,SE,Freshman,118
+S05061,Student_5061,3.65,IT,Junior,99
+S05066,Student_5066,3.56,Business,Freshman,94
+S05068,Student_5068,3.96,IT,Junior,50
+S05070,Student_5070,3.7,Finance,Junior,111
+S05076,Student_5076,3.83,IT,Junior,43
+S05078,Student_5078,3.92,IT,Senior,52
+S05082,Student_5082,3.61,AI,Freshman,54
+S05085,Student_5085,3.88,Data Science,Sophomore,89
+S05086,Student_5086,3.72,IT,Freshman,81
+S05092,Student_5092,3.53,Data Science,Sophomore,114
+S05112,Student_5112,3.66,CS,Senior,81
+S05118,Student_5118,3.76,Business,Sophomore,57
+S05121,Student_5121,3.66,Finance,Freshman,115
+S05123,Student_5123,3.53,IT,Junior,43
+S05124,Student_5124,3.52,Data Science,Sophomore,138
+S05127,Student_5127,3.67,CS,Sophomore,133
+S05138,Student_5138,3.79,CS,Junior,61
+S05139,Student_5139,3.84,Data Science,Senior,66
+S05145,Student_5145,3.53,SE,Sophomore,111
+S05147,Student_5147,3.94,CS,Junior,87
+S05150,Student_5150,3.71,AI,Freshman,66
+S05160,Student_5160,3.92,AI,Junior,93
+S05163,Student_5163,3.73,IT,Sophomore,125
+S05164,Student_5164,3.81,SE,Senior,19
+S05165,Student_5165,3.56,Data Science,Sophomore,100
+S05169,Student_5169,3.68,Data Science,Freshman,130
+S05179,Student_5179,3.73,Business,Freshman,50
+S05182,Student_5182,3.95,AI,Freshman,42
+S05183,Student_5183,3.94,Data Science,Sophomore,113
+S05204,Student_5204,3.78,CS,Sophomore,66
+S05205,Student_5205,3.82,SE,Senior,117
+S05207,Student_5207,3.58,AI,Sophomore,115
+S05212,Student_5212,3.92,Business,Junior,6
+S05219,Student_5219,3.8,Business,Junior,56
+S05220,Student_5220,3.99,AI,Senior,93
+S05227,Student_5227,3.54,Finance,Junior,137
+S05238,Student_5238,3.92,IT,Freshman,46
+S05241,Student_5241,3.94,Data Science,Senior,68
+S05246,Student_5246,3.6,AI,Freshman,23
+S05259,Student_5259,3.61,IT,Senior,92
+S05261,Student_5261,3.89,AI,Senior,4
+S05262,Student_5262,3.87,Data Science,Junior,109
+S05270,Student_5270,3.68,CS,Freshman,49
+S05276,Student_5276,3.59,IT,Freshman,60
+S05277,Student_5277,3.67,SE,Freshman,44
+S05283,Student_5283,3.82,IT,Senior,46
+S05284,Student_5284,3.83,CS,Junior,135
+S05285,Student_5285,3.94,Data Science,Sophomore,101
+S05288,Student_5288,3.9,SE,Senior,105
+S05300,Student_5300,3.53,Finance,Sophomore,125
+S05305,Student_5305,3.93,Business,Freshman,133
+S05322,Student_5322,3.86,Data Science,Freshman,54
+S05329,Student_5329,3.72,SE,Senior,61
+S05330,Student_5330,3.87,Data Science,Sophomore,114
+S05356,Student_5356,3.95,Data Science,Junior,34
+S05364,Student_5364,3.91,SE,Freshman,92
+S05365,Student_5365,3.86,CS,Sophomore,100
+S05369,Student_5369,3.93,SE,Sophomore,40
+S05371,Student_5371,3.99,SE,Junior,55
+S05379,Student_5379,3.98,Finance,Junior,117
+S05384,Student_5384,3.82,Finance,Junior,73
+S05389,Student_5389,3.52,Finance,Junior,134
+S05391,Student_5391,3.77,SE,Junior,75
+S05394,Student_5394,3.51,Business,Junior,118
+S05397,Student_5397,3.56,SE,Freshman,61
+S05400,Student_5400,3.54,Data Science,Sophomore,10
+S05402,Student_5402,3.99,AI,Senior,95
+S05416,Student_5416,3.96,Data Science,Sophomore,86
+S05423,Student_5423,3.53,Data Science,Junior,123
+S05450,Student_5450,3.99,IT,Senior,10
+S05452,Student_5452,3.56,CS,Junior,69
+S05454,Student_5454,3.86,Finance,Junior,131
+S05455,Student_5455,3.61,Business,Sophomore,80
+S05456,Student_5456,3.57,Business,Junior,40
+S05466,Student_5466,3.55,Business,Senior,28
+S05475,Student_5475,3.78,IT,Sophomore,50
+S05483,Student_5483,3.54,IT,Junior,111
+S05485,Student_5485,3.94,CS,Junior,86
+S05489,Student_5489,3.71,CS,Sophomore,95
+S05490,Student_5490,3.72,SE,Senior,85
+S05492,Student_5492,3.71,AI,Senior,87
+S05494,Student_5494,3.75,AI,Sophomore,123
+S05497,Student_5497,3.53,IT,Sophomore,109
+S05501,Student_5501,3.58,Business,Junior,103
+S05502,Student_5502,3.98,AI,Senior,126
+S05505,Student_5505,3.86,Business,Senior,43
+S05510,Student_5510,3.59,CS,Junior,1
+S05513,Student_5513,3.99,AI,Sophomore,125
+S05515,Student_5515,3.53,IT,Junior,115
+S05516,Student_5516,3.92,Finance,Senior,127
+S05518,Student_5518,3.57,Business,Freshman,99
+S05524,Student_5524,3.64,AI,Senior,43
+S05528,Student_5528,3.56,SE,Senior,46
+S05532,Student_5532,3.76,CS,Sophomore,79
+S05533,Student_5533,3.62,SE,Freshman,85
+S05534,Student_5534,3.77,Data Science,Junior,10
+S05536,Student_5536,3.85,CS,Senior,135
+S05539,Student_5539,3.72,IT,Sophomore,140
+S05540,Student_5540,3.86,CS,Junior,90
+S05542,Student_5542,3.81,AI,Junior,36
+S05543,Student_5543,3.66,Finance,Freshman,51
+S05546,Student_5546,3.9,AI,Sophomore,35
+S05549,Student_5549,3.68,AI,Junior,63
+S05554,Student_5554,3.89,SE,Freshman,90
+S05557,Student_5557,3.54,AI,Sophomore,58
+S05558,Student_5558,3.99,Business,Freshman,59
+S05571,Student_5571,3.89,SE,Junior,61
+S05573,Student_5573,3.92,Finance,Senior,97
+S05577,Student_5577,3.91,Finance,Sophomore,76
+S05581,Student_5581,3.84,IT,Freshman,58
+S05585,Student_5585,3.98,CS,Junior,98
+S05588,Student_5588,3.74,Business,Sophomore,16
+S05589,Student_5589,3.83,Data Science,Senior,137
+S05596,Student_5596,3.67,IT,Senior,48
+S05605,Student_5605,3.99,Finance,Senior,137
+S05610,Student_5610,3.65,AI,Freshman,111
+S05613,Student_5613,3.82,IT,Sophomore,111
+S05616,Student_5616,3.75,SE,Sophomore,105
+S05619,Student_5619,3.96,CS,Freshman,14
+S05621,Student_5621,3.67,Finance,Sophomore,14
+S05626,Student_5626,3.68,SE,Senior,35
+S05632,Student_5632,3.88,IT,Senior,100
+S05644,Student_5644,3.55,CS,Freshman,47
+S05654,Student_5654,3.89,Data Science,Sophomore,97
+S05655,Student_5655,3.95,SE,Freshman,83
+S05657,Student_5657,3.8,Finance,Senior,34
+S05663,Student_5663,3.96,Finance,Senior,126
+S05664,Student_5664,3.83,Finance,Senior,27
+S05665,Student_5665,3.55,AI,Senior,0
+S05677,Student_5677,3.76,Business,Senior,29
+S05679,Student_5679,3.62,Business,Junior,59
+S05683,Student_5683,3.9,CS,Senior,34
+S05690,Student_5690,3.74,Finance,Sophomore,97
+S05694,Student_5694,3.63,AI,Senior,3
+S05697,Student_5697,3.87,CS,Senior,79
+S05700,Student_5700,3.64,Data Science,Freshman,90
+S05701,Student_5701,4.0,Business,Junior,132
+S05706,Student_5706,3.76,SE,Senior,114
+S05708,Student_5708,3.6,Finance,Sophomore,69
+S05713,Student_5713,3.79,Finance,Sophomore,67
+S05716,Student_5716,3.54,AI,Freshman,26
+S05725,Student_5725,3.55,Data Science,Freshman,128
+S05742,Student_5742,3.92,IT,Junior,139
+S05743,Student_5743,3.66,Business,Freshman,105
+S05744,Student_5744,3.65,SE,Sophomore,116
+S05746,Student_5746,3.6,SE,Senior,134
+S05753,Student_5753,3.61,CS,Senior,114
+S05763,Student_5763,3.84,SE,Sophomore,132
+S05768,Student_5768,3.66,IT,Sophomore,115
+S05772,Student_5772,3.74,Business,Freshman,26
+S05796,Student_5796,3.63,Finance,Freshman,79
+S05797,Student_5797,3.9,Data Science,Senior,2
+S05801,Student_5801,3.8,SE,Freshman,101
+S05802,Student_5802,3.59,AI,Freshman,4
+S05804,Student_5804,3.53,Finance,Senior,94
+S05807,Student_5807,3.93,AI,Senior,29
+S05817,Student_5817,3.51,Data Science,Senior,55
+S05821,Student_5821,3.54,Business,Sophomore,0
+S05822,Student_5822,3.92,AI,Freshman,101
+S05826,Student_5826,3.68,SE,Senior,99
+S05828,Student_5828,3.95,Data Science,Freshman,4
+S05831,Student_5831,3.74,SE,Senior,70
+S05832,Student_5832,3.53,SE,Senior,137
+S05847,Student_5847,3.88,SE,Junior,17
+S05848,Student_5848,4.0,AI,Sophomore,115
+S05857,Student_5857,3.79,SE,Senior,16
+S05860,Student_5860,3.65,Finance,Junior,45
+S05864,Student_5864,3.9,AI,Senior,70
+S05865,Student_5865,3.7,SE,Senior,121
+S05872,Student_5872,3.54,Data Science,Sophomore,140
+S05874,Student_5874,3.81,AI,Sophomore,105
+S05877,Student_5877,3.76,IT,Junior,139
+S05878,Student_5878,3.55,Business,Freshman,110
+S05879,Student_5879,3.74,CS,Freshman,135
+S05885,Student_5885,3.64,AI,Senior,121
+S05888,Student_5888,3.67,SE,Freshman,88
+S05889,Student_5889,3.98,SE,Senior,84
+S05894,Student_5894,3.71,CS,Freshman,102
+S05899,Student_5899,3.99,CS,Senior,9
+S05900,Student_5900,3.81,AI,Sophomore,117
+S05902,Student_5902,3.98,SE,Junior,8
+S05910,Student_5910,3.64,Business,Freshman,77
+S05918,Student_5918,3.79,CS,Junior,104
+S05930,Student_5930,3.89,IT,Sophomore,80
+S05951,Student_5951,3.81,CS,Senior,28
+S05952,Student_5952,3.83,SE,Sophomore,94
+S05964,Student_5964,3.69,IT,Junior,114
+S05967,Student_5967,3.72,SE,Junior,11
+S05988,Student_5988,3.56,Finance,Sophomore,31
+S05997,Student_5997,3.86,CS,Senior,46
+S05998,Student_5998,3.7,IT,Freshman,66
+S06001,Student_6001,3.52,Finance,Senior,9
+S06003,Student_6003,3.98,SE,Junior,72
+S06007,Student_6007,3.91,CS,Senior,67
+S06008,Student_6008,3.85,AI,Freshman,2
+S06010,Student_6010,3.76,IT,Junior,32
+S06011,Student_6011,3.99,Business,Sophomore,71
+S06026,Student_6026,3.82,SE,Junior,19
+S06031,Student_6031,3.74,Finance,Junior,136
+S06034,Student_6034,3.83,AI,Senior,45
+S06050,Student_6050,3.56,Business,Sophomore,56
+S06051,Student_6051,3.85,Business,Sophomore,109
+S06053,Student_6053,3.73,Finance,Sophomore,48
+S06067,Student_6067,3.53,AI,Junior,106
+S06071,Student_6071,3.56,Business,Junior,44
+S06075,Student_6075,3.54,SE,Sophomore,21
+S06079,Student_6079,3.54,Finance,Junior,130
+S06080,Student_6080,3.74,Business,Junior,5
+S06091,Student_6091,3.65,Finance,Freshman,125
+S06095,Student_6095,3.77,Data Science,Freshman,28
+S06096,Student_6096,3.99,Finance,Junior,61
+S06106,Student_6106,3.59,CS,Sophomore,116
+S06107,Student_6107,3.65,CS,Freshman,125
+S06113,Student_6113,3.58,CS,Sophomore,58
+S06120,Student_6120,3.7,CS,Sophomore,107
+S06124,Student_6124,3.63,Business,Sophomore,138
+S06127,Student_6127,3.99,IT,Senior,88
+S06133,Student_6133,3.82,Finance,Sophomore,97
+S06145,Student_6145,3.8,AI,Freshman,71
+S06146,Student_6146,3.81,IT,Senior,38
+S06156,Student_6156,3.73,CS,Sophomore,12
+S06160,Student_6160,3.71,Finance,Sophomore,46
+S06163,Student_6163,3.7,SE,Sophomore,114
+S06168,Student_6168,3.73,CS,Junior,53
+S06183,Student_6183,3.66,Business,Junior,73
+S06188,Student_6188,3.6,Finance,Freshman,0
+S06189,Student_6189,3.64,CS,Junior,23
+S06193,Student_6193,3.64,CS,Freshman,9
+S06204,Student_6204,3.63,Business,Sophomore,132
+S06210,Student_6210,3.72,AI,Sophomore,63
+S06215,Student_6215,3.76,Data Science,Junior,73
+S06218,Student_6218,3.6,SE,Sophomore,108
+S06220,Student_6220,3.79,AI,Freshman,53
+S06256,Student_6256,3.63,Finance,Freshman,20
+S06264,Student_6264,3.78,IT,Sophomore,124
+S06265,Student_6265,3.95,Finance,Senior,24
+S06267,Student_6267,3.9,Finance,Senior,127
+S06268,Student_6268,3.98,CS,Freshman,74
+S06269,Student_6269,3.8,Business,Freshman,121
+S06280,Student_6280,3.9,SE,Senior,44
+S06283,Student_6283,3.87,IT,Senior,134
+S06285,Student_6285,3.7,Data Science,Sophomore,45
+S06289,Student_6289,3.61,IT,Senior,0
+S06294,Student_6294,3.95,CS,Senior,129
+S06307,Student_6307,3.52,SE,Sophomore,8
+S06313,Student_6313,3.95,AI,Junior,57
+S06314,Student_6314,3.82,Business,Freshman,87
+S06344,Student_6344,3.78,Business,Senior,15
+S06353,Student_6353,3.53,Data Science,Freshman,76
+S06354,Student_6354,3.9,SE,Sophomore,111
+S06363,Student_6363,3.52,Data Science,Freshman,120
+S06364,Student_6364,3.55,Finance,Sophomore,45
+S06368,Student_6368,3.99,IT,Senior,132
+S06371,Student_6371,3.87,Data Science,Sophomore,73
+S06374,Student_6374,3.94,Data Science,Junior,73
+S06380,Student_6380,3.79,Finance,Senior,59
+S06383,Student_6383,3.67,SE,Freshman,63
+S06384,Student_6384,3.55,CS,Sophomore,14
+S06388,Student_6388,3.55,CS,Sophomore,64
+S06389,Student_6389,3.96,Business,Freshman,26
+S06391,Student_6391,3.74,Data Science,Senior,27
+S06399,Student_6399,3.84,Finance,Freshman,45
+S06400,Student_6400,3.69,AI,Freshman,53
+S06403,Student_6403,3.76,CS,Senior,129
+S06404,Student_6404,3.63,Business,Senior,68
+S06406,Student_6406,3.83,Business,Freshman,135
+S06409,Student_6409,3.75,Finance,Freshman,20
+S06410,Student_6410,3.9,IT,Sophomore,28
+S06412,Student_6412,3.65,Business,Junior,49
+S06423,Student_6423,3.55,IT,Sophomore,130
+S06427,Student_6427,3.98,SE,Freshman,25
+S06429,Student_6429,3.83,Finance,Freshman,136
+S06435,Student_6435,3.74,CS,Senior,106
+S06436,Student_6436,3.86,Business,Freshman,41
+S06438,Student_6438,3.64,Data Science,Sophomore,75
+S06439,Student_6439,3.75,AI,Freshman,7
+S06449,Student_6449,3.94,IT,Junior,42
+S06469,Student_6469,3.95,SE,Freshman,123
+S06474,Student_6474,3.62,IT,Freshman,59
+S06476,Student_6476,3.6,CS,Freshman,71
+S06477,Student_6477,3.64,SE,Freshman,40
+S06490,Student_6490,3.7,AI,Freshman,44
+S06494,Student_6494,3.51,AI,Sophomore,57
+S06503,Student_6503,3.99,Data Science,Senior,107
+S06506,Student_6506,3.54,CS,Freshman,50
+S06518,Student_6518,3.53,Finance,Senior,14
+S06525,Student_6525,3.64,Data Science,Sophomore,71
+S06526,Student_6526,3.67,AI,Sophomore,82
+S06528,Student_6528,3.6,CS,Sophomore,20
+S06530,Student_6530,3.67,Business,Freshman,86
+S06535,Student_6535,3.99,AI,Junior,63
+S06539,Student_6539,3.9,Finance,Freshman,34
+S06541,Student_6541,3.82,Data Science,Freshman,48
+S06542,Student_6542,3.53,SE,Sophomore,139
+S06545,Student_6545,3.51,IT,Freshman,96
+S06549,Student_6549,3.92,AI,Junior,52
+S06562,Student_6562,3.6,Finance,Freshman,84
+S06563,Student_6563,3.54,CS,Sophomore,83
+S06572,Student_6572,3.61,Finance,Senior,121
+S06580,Student_6580,3.51,Finance,Junior,16
+S06592,Student_6592,3.51,Data Science,Sophomore,88
+S06593,Student_6593,3.73,IT,Junior,93
+S06603,Student_6603,3.84,Data Science,Junior,129
+S06609,Student_6609,3.92,AI,Freshman,7
+S06611,Student_6611,3.88,AI,Senior,126
+S06614,Student_6614,3.91,SE,Senior,83
+S06619,Student_6619,3.77,AI,Sophomore,0
+S06620,Student_6620,3.61,Business,Senior,39
+S06621,Student_6621,3.52,Business,Senior,112
+S06626,Student_6626,3.58,Business,Freshman,25
+S06629,Student_6629,3.9,IT,Junior,3
+S06641,Student_6641,3.65,Data Science,Sophomore,87
+S06647,Student_6647,3.73,AI,Freshman,79
+S06655,Student_6655,3.54,SE,Sophomore,18
+S06659,Student_6659,3.73,SE,Sophomore,113
+S06664,Student_6664,3.96,AI,Freshman,38
+S06674,Student_6674,3.8,AI,Senior,78
+S06682,Student_6682,3.96,IT,Sophomore,110
+S06685,Student_6685,3.92,SE,Junior,131
+S06692,Student_6692,3.72,SE,Junior,21
+S06703,Student_6703,3.73,AI,Junior,28
+S06718,Student_6718,3.77,AI,Freshman,52
+S06719,Student_6719,3.75,CS,Sophomore,22
+S06720,Student_6720,3.85,IT,Junior,136
+S06729,Student_6729,3.57,AI,Freshman,62
+S06736,Student_6736,3.9,Finance,Sophomore,46
+S06737,Student_6737,3.74,Data Science,Senior,138
+S06739,Student_6739,3.52,Finance,Sophomore,8
+S06742,Student_6742,3.81,Finance,Sophomore,67
+S06748,Student_6748,4.0,IT,Junior,99
+S06754,Student_6754,3.95,IT,Sophomore,85
+S06762,Student_6762,3.57,Finance,Freshman,2
+S06764,Student_6764,3.8,IT,Freshman,112
+S06766,Student_6766,3.87,CS,Freshman,115
+S06768,Student_6768,3.76,SE,Freshman,121
+S06769,Student_6769,3.68,AI,Junior,132
+S06771,Student_6771,3.88,Business,Freshman,58
+S06777,Student_6777,3.81,SE,Freshman,77
+S06779,Student_6779,3.51,CS,Freshman,10
+S06786,Student_6786,3.57,CS,Junior,73
+S06787,Student_6787,3.9,Finance,Junior,62
+S06789,Student_6789,3.68,Data Science,Sophomore,83
+S06795,Student_6795,3.64,CS,Freshman,90
+S06797,Student_6797,3.83,Finance,Sophomore,118
+S06810,Student_6810,3.52,AI,Senior,102
+S06814,Student_6814,3.96,Data Science,Freshman,0
+S06816,Student_6816,3.83,CS,Senior,133
+S06823,Student_6823,3.58,SE,Freshman,73
+S06824,Student_6824,3.81,IT,Freshman,28
+S06843,Student_6843,3.82,CS,Sophomore,83
+S06847,Student_6847,3.83,SE,Sophomore,44
+S06848,Student_6848,3.73,AI,Senior,50
+S06853,Student_6853,3.64,Business,Sophomore,108
+S06855,Student_6855,3.91,SE,Sophomore,138
+S06856,Student_6856,3.93,Business,Junior,83
+S06858,Student_6858,3.77,Data Science,Junior,140
+S06861,Student_6861,3.84,Finance,Senior,7
+S06862,Student_6862,3.52,CS,Sophomore,100
+S06863,Student_6863,3.68,IT,Sophomore,28
+S06871,Student_6871,3.88,Data Science,Senior,101
+S06877,Student_6877,3.93,Data Science,Sophomore,133
+S06885,Student_6885,3.89,IT,Freshman,109
+S06886,Student_6886,3.71,Business,Junior,70
+S06888,Student_6888,3.52,Finance,Senior,34
+S06890,Student_6890,3.74,SE,Freshman,129
+S06903,Student_6903,3.59,Data Science,Sophomore,129
+S06916,Student_6916,3.81,Finance,Senior,6
+S06920,Student_6920,3.85,Data Science,Freshman,20
+S06941,Student_6941,3.69,Business,Senior,100
+S06942,Student_6942,3.63,AI,Junior,15
+S06948,Student_6948,3.51,Data Science,Senior,17
+S06955,Student_6955,3.91,Finance,Junior,138
+S06963,Student_6963,3.68,Finance,Sophomore,38
+S06965,Student_6965,3.73,Finance,Senior,106
+S06969,Student_6969,3.87,CS,Junior,125
+S06972,Student_6972,3.8,IT,Freshman,30
+S06977,Student_6977,3.76,SE,Sophomore,128
+S06979,Student_6979,3.68,Data Science,Senior,10
+S06990,Student_6990,3.79,IT,Freshman,112
+S06996,Student_6996,3.66,Business,Sophomore,33
+S07000,Student_7000,3.6,AI,Junior,51
+S07002,Student_7002,3.69,AI,Freshman,111
+S07011,Student_7011,3.85,SE,Senior,32
+S07028,Student_7028,3.6,Business,Sophomore,7
+S07034,Student_7034,3.6,Business,Freshman,36
+S07042,Student_7042,3.57,Data Science,Senior,69
+S07049,Student_7049,3.97,Business,Freshman,44
+S07055,Student_7055,3.79,Data Science,Sophomore,39
+S07071,Student_7071,3.75,CS,Freshman,34
+S07080,Student_7080,3.82,Data Science,Freshman,121
+S07083,Student_7083,3.57,Data Science,Sophomore,18
+S07102,Student_7102,3.94,IT,Junior,31
+S07109,Student_7109,3.53,CS,Junior,117
+S07110,Student_7110,3.67,AI,Senior,60
+S07118,Student_7118,3.54,AI,Sophomore,66
+S07120,Student_7120,3.71,CS,Senior,47
+S07121,Student_7121,3.58,AI,Senior,48
+S07123,Student_7123,3.57,SE,Senior,27
+S07125,Student_7125,3.95,Finance,Senior,116
+S07127,Student_7127,3.57,Business,Freshman,119
+S07129,Student_7129,3.87,SE,Senior,2
+S07144,Student_7144,3.79,Business,Sophomore,33
+S07150,Student_7150,3.64,IT,Sophomore,115
+S07151,Student_7151,3.75,Business,Freshman,32
+S07163,Student_7163,3.71,Finance,Freshman,63
+S07164,Student_7164,3.9,Data Science,Sophomore,58
+S07165,Student_7165,3.95,IT,Freshman,12
+S07167,Student_7167,3.58,IT,Sophomore,55
+S07177,Student_7177,3.53,SE,Sophomore,54
+S07185,Student_7185,3.98,AI,Sophomore,32
+S07188,Student_7188,3.68,Finance,Freshman,51
+S07204,Student_7204,3.7,Data Science,Sophomore,10
+S07206,Student_7206,3.96,CS,Sophomore,108
+S07210,Student_7210,3.65,Business,Senior,23
+S07212,Student_7212,3.6,IT,Senior,72
+S07215,Student_7215,3.69,Business,Sophomore,133
+S07217,Student_7217,3.53,AI,Freshman,56
+S07225,Student_7225,3.92,SE,Sophomore,95
+S07227,Student_7227,3.84,Data Science,Sophomore,114
+S07232,Student_7232,3.55,SE,Junior,138
+S07234,Student_7234,3.83,SE,Sophomore,13
+S07239,Student_7239,3.91,AI,Freshman,72
+S07242,Student_7242,3.7,Finance,Sophomore,9
+S07245,Student_7245,3.62,SE,Junior,46
+S07249,Student_7249,3.78,Data Science,Freshman,57
+S07253,Student_7253,3.91,AI,Freshman,136
+S07254,Student_7254,3.93,AI,Freshman,104
+S07257,Student_7257,3.87,CS,Freshman,63
+S07269,Student_7269,3.85,Business,Freshman,6
+S07279,Student_7279,3.84,SE,Freshman,105
+S07280,Student_7280,3.64,CS,Sophomore,71
+S07281,Student_7281,3.65,Data Science,Junior,2
+S07285,Student_7285,4.0,AI,Freshman,10
+S07288,Student_7288,3.71,Finance,Junior,69
+S07289,Student_7289,3.55,Finance,Senior,82
+S07292,Student_7292,3.97,SE,Junior,102
+S07301,Student_7301,3.56,CS,Senior,112
+S07303,Student_7303,3.54,Finance,Junior,23
+S07313,Student_7313,3.75,Business,Freshman,19
+S07314,Student_7314,3.59,AI,Junior,101
+S07316,Student_7316,3.53,Finance,Freshman,29
+S07320,Student_7320,3.96,Finance,Senior,37
+S07326,Student_7326,3.71,CS,Freshman,76
+S07328,Student_7328,3.51,CS,Sophomore,117
+S07329,Student_7329,3.55,Business,Senior,104
+S07332,Student_7332,3.82,Finance,Junior,61
+S07347,Student_7347,3.74,Data Science,Junior,60
+S07350,Student_7350,3.94,IT,Freshman,99
+S07351,Student_7351,3.56,Business,Junior,127
+S07365,Student_7365,3.89,Finance,Sophomore,62
+S07367,Student_7367,3.78,Finance,Senior,110
+S07373,Student_7373,3.97,IT,Junior,113
+S07384,Student_7384,3.81,Data Science,Sophomore,122
+S07393,Student_7393,3.66,IT,Freshman,82
+S07394,Student_7394,3.74,Data Science,Sophomore,106
+S07395,Student_7395,3.64,Data Science,Freshman,131
+S07402,Student_7402,3.83,Finance,Freshman,131
+S07404,Student_7404,3.78,AI,Senior,137
+S07411,Student_7411,3.7,Data Science,Freshman,139
+S07417,Student_7417,3.62,SE,Freshman,60
+S07419,Student_7419,3.58,SE,Senior,134
+S07428,Student_7428,3.92,Data Science,Senior,140
+S07444,Student_7444,3.67,Business,Junior,115
+S07449,Student_7449,3.76,SE,Sophomore,130
+S07451,Student_7451,3.6,AI,Senior,137
+S07458,Student_7458,3.56,Data Science,Sophomore,89
+S07464,Student_7464,3.59,Finance,Senior,72
+S07465,Student_7465,3.64,IT,Freshman,109
+S07475,Student_7475,3.99,Business,Freshman,67
+S07478,Student_7478,3.88,Data Science,Senior,61
+S07481,Student_7481,3.65,Finance,Junior,107
+S07482,Student_7482,3.61,Business,Senior,20
+S07492,Student_7492,3.83,Finance,Junior,7
+S07496,Student_7496,3.53,IT,Junior,123
+S07497,Student_7497,3.66,CS,Senior,78
+S07498,Student_7498,3.98,Finance,Senior,109
+S07502,Student_7502,3.55,Finance,Junior,104
+S07509,Student_7509,3.51,Business,Sophomore,62
+S07512,Student_7512,3.76,Finance,Sophomore,138
+S07523,Student_7523,3.84,IT,Junior,110
+S07524,Student_7524,3.74,Finance,Senior,124
+S07529,Student_7529,3.52,IT,Junior,38
+S07532,Student_7532,3.9,SE,Sophomore,14
+S07537,Student_7537,3.84,Data Science,Sophomore,19
+S07540,Student_7540,3.73,AI,Freshman,7
+S07553,Student_7553,3.58,Data Science,Junior,39
+S07556,Student_7556,3.78,AI,Senior,96
+S07558,Student_7558,3.99,SE,Junior,140
+S07560,Student_7560,3.68,AI,Sophomore,61
+S07562,Student_7562,3.75,Finance,Sophomore,96
+S07570,Student_7570,3.75,SE,Senior,133
+S07573,Student_7573,3.72,Business,Sophomore,91
+S07575,Student_7575,3.94,CS,Sophomore,46
+S07580,Student_7580,3.98,Finance,Junior,37
+S07583,Student_7583,3.93,CS,Freshman,102
+S07585,Student_7585,3.66,Data Science,Senior,73
+S07593,Student_7593,3.66,CS,Sophomore,109
+S07594,Student_7594,3.71,AI,Senior,97
+S07597,Student_7597,3.93,AI,Sophomore,20
+S07603,Student_7603,3.81,Finance,Senior,127
+S07609,Student_7609,3.55,CS,Freshman,70
+S07614,Student_7614,3.67,AI,Freshman,129
+S07616,Student_7616,3.6,SE,Sophomore,34
+S07624,Student_7624,3.65,Data Science,Junior,113
+S07630,Student_7630,3.62,Finance,Sophomore,5
+S07634,Student_7634,3.55,SE,Senior,84
+S07637,Student_7637,3.65,CS,Junior,105
+S07647,Student_7647,3.7,Business,Freshman,17
+S07652,Student_7652,3.94,AI,Junior,14
+S07656,Student_7656,3.62,AI,Senior,45
+S07660,Student_7660,3.52,AI,Senior,71
+S07665,Student_7665,3.99,SE,Senior,76
+S07668,Student_7668,3.62,Business,Freshman,43
+S07672,Student_7672,3.69,Finance,Freshman,75
+S07685,Student_7685,3.9,SE,Sophomore,49
+S07687,Student_7687,3.83,Business,Sophomore,1
+S07689,Student_7689,3.76,Business,Junior,106
+S07695,Student_7695,3.95,Finance,Sophomore,34
+S07696,Student_7696,3.51,Business,Junior,107
+S07697,Student_7697,3.97,Business,Junior,77
+S07705,Student_7705,4.0,Data Science,Sophomore,134
+S07707,Student_7707,3.8,SE,Junior,31
+S07708,Student_7708,3.55,AI,Freshman,83
+S07711,Student_7711,3.54,IT,Freshman,130
+S07712,Student_7712,3.53,CS,Sophomore,66
+S07713,Student_7713,3.72,Finance,Sophomore,68
+S07718,Student_7718,3.66,Data Science,Senior,63
+S07727,Student_7727,3.7,Data Science,Senior,49
+S07731,Student_7731,3.52,SE,Senior,111
+S07732,Student_7732,3.88,Data Science,Senior,0
+S07733,Student_7733,3.57,SE,Junior,116
+S07738,Student_7738,3.7,SE,Sophomore,39
+S07741,Student_7741,3.81,CS,Senior,58
+S07745,Student_7745,3.76,AI,Junior,35
+S07750,Student_7750,3.94,Business,Freshman,35
+S07759,Student_7759,3.97,Data Science,Junior,24
+S07772,Student_7772,3.62,Business,Junior,54
+S07775,Student_7775,3.56,Data Science,Freshman,4
+S07780,Student_7780,3.51,Finance,Senior,0
+S07788,Student_7788,3.92,Business,Freshman,22
+S07791,Student_7791,3.86,Finance,Sophomore,44
+S07792,Student_7792,3.59,Finance,Freshman,140
+S07795,Student_7795,3.71,CS,Senior,130
+S07796,Student_7796,3.87,Data Science,Freshman,135
+S07801,Student_7801,3.75,SE,Junior,13
+S07805,Student_7805,3.58,IT,Sophomore,124
+S07806,Student_7806,3.54,Data Science,Junior,68
+S07819,Student_7819,3.9,SE,Junior,31
+S07827,Student_7827,3.67,SE,Freshman,13
+S07833,Student_7833,3.9,Data Science,Sophomore,58
+S07838,Student_7838,3.72,CS,Sophomore,129
+S07844,Student_7844,3.64,Data Science,Junior,140
+S07852,Student_7852,3.74,AI,Senior,57
+S07859,Student_7859,3.73,Business,Sophomore,96
+S07861,Student_7861,3.75,Business,Junior,18
+S07866,Student_7866,3.88,Finance,Sophomore,35
+S07867,Student_7867,3.72,AI,Senior,120
+S07870,Student_7870,3.88,Business,Junior,66
+S07872,Student_7872,3.76,SE,Junior,6
+S07885,Student_7885,3.93,Data Science,Senior,0
+S07888,Student_7888,3.54,Finance,Freshman,14
+S07889,Student_7889,3.53,Data Science,Senior,73
+S07896,Student_7896,3.65,Business,Sophomore,139
+S07899,Student_7899,3.91,Business,Junior,128
+S07912,Student_7912,3.76,Data Science,Junior,29
+S07915,Student_7915,3.54,SE,Senior,111
+S07921,Student_7921,3.54,Business,Senior,18
+S07928,Student_7928,3.6,AI,Freshman,60
+S07933,Student_7933,3.81,CS,Freshman,40
+S07935,Student_7935,3.97,SE,Freshman,123
+S07941,Student_7941,3.75,AI,Freshman,22
+S07947,Student_7947,3.6,Finance,Junior,125
+S07951,Student_7951,3.63,Data Science,Junior,22
+S07952,Student_7952,3.69,Business,Senior,2
+S07957,Student_7957,3.98,IT,Junior,139
+S07964,Student_7964,3.61,AI,Sophomore,64
+S07970,Student_7970,3.83,Finance,Senior,11
+S07979,Student_7979,3.93,AI,Senior,67
+S07980,Student_7980,3.78,IT,Junior,4
+S07989,Student_7989,3.84,Data Science,Sophomore,18
+S07996,Student_7996,3.64,Business,Senior,44
+S08013,Student_8013,3.9,Data Science,Sophomore,115
+S08018,Student_8018,3.62,Business,Senior,127
+S08026,Student_8026,3.71,IT,Sophomore,109
+S08029,Student_8029,3.99,IT,Senior,80
+S08043,Student_8043,3.79,CS,Sophomore,21
+S08054,Student_8054,3.57,SE,Senior,135
+S08058,Student_8058,3.58,IT,Freshman,3
+S08059,Student_8059,3.79,Business,Senior,134
+S08069,Student_8069,3.54,SE,Senior,1
+S08070,Student_8070,3.64,IT,Freshman,123
+S08078,Student_8078,3.77,Data Science,Sophomore,134
+S08079,Student_8079,3.84,SE,Senior,86
+S08085,Student_8085,3.84,AI,Freshman,12
+S08089,Student_8089,3.97,Finance,Sophomore,128
+S08096,Student_8096,3.7,SE,Junior,39
+S08098,Student_8098,3.82,CS,Freshman,88
+S08107,Student_8107,3.66,SE,Junior,90
+S08111,Student_8111,3.8,CS,Junior,15
+S08115,Student_8115,3.62,Finance,Sophomore,28
+S08126,Student_8126,3.57,AI,Senior,11
+S08128,Student_8128,3.89,Data Science,Sophomore,73
+S08132,Student_8132,3.55,CS,Senior,75
+S08138,Student_8138,3.58,IT,Freshman,20
+S08142,Student_8142,3.58,IT,Freshman,58
+S08144,Student_8144,3.83,Finance,Freshman,57
+S08146,Student_8146,3.97,Business,Sophomore,75
+S08167,Student_8167,3.99,IT,Freshman,2
+S08169,Student_8169,3.83,SE,Freshman,43
+S08175,Student_8175,3.88,AI,Senior,132
+S08176,Student_8176,3.52,Finance,Senior,38
+S08177,Student_8177,3.52,IT,Senior,112
+S08178,Student_8178,3.77,Finance,Junior,46
+S08182,Student_8182,3.56,Business,Sophomore,132
+S08185,Student_8185,3.68,Data Science,Freshman,44
+S08186,Student_8186,3.6,Finance,Junior,50
+S08187,Student_8187,3.79,Finance,Senior,75
+S08216,Student_8216,3.85,IT,Sophomore,117
+S08218,Student_8218,3.64,Data Science,Junior,91
+S08225,Student_8225,3.62,Data Science,Freshman,83
+S08226,Student_8226,3.68,CS,Sophomore,89
+S08231,Student_8231,3.76,IT,Freshman,133
+S08236,Student_8236,3.77,IT,Sophomore,24
+S08243,Student_8243,3.76,Data Science,Freshman,133
+S08253,Student_8253,3.81,AI,Freshman,113
+S08257,Student_8257,3.94,CS,Sophomore,8
+S08258,Student_8258,3.53,Data Science,Junior,39
+S08261,Student_8261,3.89,AI,Sophomore,117
+S08271,Student_8271,3.77,Business,Junior,62
+S08284,Student_8284,3.9,Data Science,Freshman,15
+S08285,Student_8285,3.58,Data Science,Junior,11
+S08289,Student_8289,3.64,AI,Freshman,84
+S08291,Student_8291,3.71,IT,Senior,52
+S08294,Student_8294,3.98,SE,Sophomore,49
+S08296,Student_8296,3.56,Finance,Freshman,105
+S08304,Student_8304,3.57,Finance,Junior,114
+S08308,Student_8308,3.85,AI,Sophomore,59
+S08313,Student_8313,3.89,CS,Sophomore,40
+S08315,Student_8315,3.81,AI,Freshman,90
+S08318,Student_8318,3.57,Business,Junior,58
+S08323,Student_8323,3.82,Data Science,Sophomore,84
+S08326,Student_8326,3.67,Finance,Sophomore,73
+S08328,Student_8328,3.94,IT,Freshman,54
+S08329,Student_8329,3.78,Data Science,Sophomore,56
+S08339,Student_8339,3.98,Finance,Junior,67
+S08367,Student_8367,3.98,Data Science,Sophomore,121
+S08368,Student_8368,3.74,IT,Freshman,127
+S08374,Student_8374,3.77,SE,Junior,41
+S08378,Student_8378,3.94,Finance,Junior,80
+S08380,Student_8380,3.69,SE,Senior,4
+S08384,Student_8384,3.79,Data Science,Senior,95
+S08386,Student_8386,3.55,IT,Freshman,80
+S08388,Student_8388,3.66,AI,Junior,104
+S08391,Student_8391,3.84,AI,Freshman,70
+S08406,Student_8406,3.62,CS,Junior,27
+S08410,Student_8410,3.71,Data Science,Sophomore,53
+S08414,Student_8414,3.51,AI,Junior,27
+S08427,Student_8427,3.96,IT,Senior,71
+S08432,Student_8432,3.71,AI,Senior,41
+S08435,Student_8435,3.68,Finance,Senior,138
+S08443,Student_8443,3.79,CS,Junior,56
+S08445,Student_8445,3.58,SE,Sophomore,50
+S08446,Student_8446,3.84,CS,Junior,133
+S08457,Student_8457,3.59,Data Science,Senior,99
+S08458,Student_8458,3.83,Data Science,Senior,88
+S08478,Student_8478,3.68,Finance,Sophomore,112
+S08479,Student_8479,3.97,CS,Freshman,41
+S08482,Student_8482,3.55,CS,Senior,66
+S08484,Student_8484,3.88,CS,Junior,33
+S08489,Student_8489,3.85,IT,Senior,33
+S08497,Student_8497,3.89,AI,Sophomore,14
+S08500,Student_8500,3.51,SE,Senior,116
+S08504,Student_8504,3.56,Finance,Sophomore,127
+S08505,Student_8505,3.82,IT,Freshman,63
+S08506,Student_8506,3.61,AI,Freshman,27
+S08508,Student_8508,3.95,CS,Sophomore,63
+S08512,Student_8512,3.77,Data Science,Freshman,9
+S08515,Student_8515,3.83,AI,Senior,89
+S08516,Student_8516,3.86,CS,Sophomore,87
+S08519,Student_8519,3.75,CS,Junior,121
+S08520,Student_8520,3.81,SE,Freshman,43
+S08533,Student_8533,3.94,AI,Senior,82
+S08535,Student_8535,3.68,Data Science,Freshman,69
+S08537,Student_8537,3.96,Business,Senior,119
+S08547,Student_8547,3.74,IT,Freshman,32
+S08549,Student_8549,3.82,AI,Sophomore,95
+S08552,Student_8552,3.88,CS,Junior,131
+S08553,Student_8553,3.8,CS,Sophomore,112
+S08558,Student_8558,3.78,Data Science,Junior,41
+S08564,Student_8564,3.93,Business,Freshman,90
+S08571,Student_8571,3.66,AI,Freshman,96
+S08576,Student_8576,3.79,CS,Senior,86
+S08583,Student_8583,3.87,AI,Senior,2
+S08602,Student_8602,3.82,SE,Senior,93
+S08604,Student_8604,3.51,CS,Senior,116
+S08617,Student_8617,3.96,SE,Senior,139
+S08622,Student_8622,3.82,SE,Senior,91
+S08627,Student_8627,3.85,CS,Junior,86
+S08631,Student_8631,3.69,AI,Sophomore,99
+S08635,Student_8635,3.51,CS,Sophomore,61
+S08638,Student_8638,3.88,CS,Junior,66
+S08646,Student_8646,3.87,Data Science,Junior,86
+S08649,Student_8649,3.67,SE,Junior,55
+S08654,Student_8654,3.68,SE,Senior,57
+S08664,Student_8664,3.51,CS,Freshman,89
+S08689,Student_8689,3.55,Business,Junior,112
+S08699,Student_8699,3.95,IT,Junior,55
+S08701,Student_8701,3.83,IT,Freshman,125
+S08710,Student_8710,3.72,Business,Freshman,97
+S08715,Student_8715,3.7,Finance,Senior,7
+S08720,Student_8720,3.68,AI,Sophomore,132
+S08739,Student_8739,3.96,CS,Sophomore,111
+S08743,Student_8743,4.0,Finance,Freshman,76
+S08758,Student_8758,3.51,AI,Junior,89
+S08772,Student_8772,3.8,CS,Junior,60
+S08775,Student_8775,3.63,AI,Freshman,92
+S08782,Student_8782,3.61,Business,Sophomore,140
+S08789,Student_8789,3.73,SE,Senior,37
+S08798,Student_8798,3.67,Business,Sophomore,78
+S08799,Student_8799,3.83,Data Science,Junior,95
+S08801,Student_8801,3.97,Data Science,Freshman,128
+S08802,Student_8802,3.71,CS,Freshman,94
+S08803,Student_8803,3.76,Business,Freshman,124
+S08811,Student_8811,3.51,AI,Freshman,23
+S08812,Student_8812,3.8,CS,Freshman,79
+S08817,Student_8817,3.89,Business,Sophomore,125
+S08818,Student_8818,3.75,Business,Junior,114
+S08819,Student_8819,3.54,AI,Junior,95
+S08831,Student_8831,3.64,IT,Freshman,45
+S08837,Student_8837,3.53,IT,Freshman,107
+S08842,Student_8842,3.71,Finance,Senior,72
+S08843,Student_8843,3.54,SE,Sophomore,128
+S08845,Student_8845,3.76,AI,Senior,112
+S08849,Student_8849,3.82,Finance,Senior,22
+S08851,Student_8851,3.9,IT,Freshman,77
+S08852,Student_8852,3.71,SE,Junior,57
+S08855,Student_8855,3.9,CS,Freshman,54
+S08856,Student_8856,3.64,IT,Junior,16
+S08857,Student_8857,3.79,Business,Freshman,108
+S08858,Student_8858,3.96,IT,Junior,79
+S08864,Student_8864,3.77,IT,Senior,102
+S08867,Student_8867,3.88,Business,Freshman,79
+S08873,Student_8873,3.68,Business,Sophomore,136
+S08874,Student_8874,3.88,SE,Sophomore,22
+S08875,Student_8875,3.63,Finance,Sophomore,133
+S08880,Student_8880,3.59,Business,Junior,66
+S08881,Student_8881,3.61,Data Science,Junior,57
+S08882,Student_8882,3.54,IT,Freshman,112
+S08896,Student_8896,3.74,AI,Freshman,61
+S08899,Student_8899,3.83,Finance,Junior,5
+S08903,Student_8903,3.63,IT,Senior,36
+S08907,Student_8907,3.88,Data Science,Sophomore,98
+S08909,Student_8909,3.53,AI,Freshman,72
+S08913,Student_8913,3.62,Finance,Junior,8
+S08921,Student_8921,3.91,Data Science,Freshman,23
+S08936,Student_8936,3.64,CS,Sophomore,38
+S08940,Student_8940,3.67,Data Science,Senior,120
+S08945,Student_8945,3.97,Finance,Junior,19
+S08947,Student_8947,3.66,Business,Junior,56
+S08952,Student_8952,3.91,Finance,Freshman,109
+S08958,Student_8958,3.55,Business,Senior,66
+S08967,Student_8967,4.0,IT,Sophomore,80
+S08984,Student_8984,3.54,IT,Freshman,76
+S08988,Student_8988,3.57,Data Science,Freshman,7
+S08989,Student_8989,3.86,AI,Freshman,43
+S09004,Student_9004,3.82,CS,Junior,3
+S09013,Student_9013,3.6,SE,Sophomore,125
+S09014,Student_9014,3.79,CS,Freshman,14
+S09021,Student_9021,3.55,SE,Freshman,84
+S09022,Student_9022,3.77,AI,Freshman,54
+S09035,Student_9035,3.8,CS,Junior,112
+S09050,Student_9050,3.86,Finance,Senior,11
+S09057,Student_9057,3.92,IT,Senior,53
+S09059,Student_9059,3.88,CS,Freshman,71
+S09069,Student_9069,3.84,Finance,Freshman,97
+S09071,Student_9071,3.51,CS,Sophomore,118
+S09077,Student_9077,3.55,CS,Junior,69
+S09078,Student_9078,3.94,Data Science,Freshman,49
+S09084,Student_9084,3.63,Data Science,Junior,4
+S09085,Student_9085,3.69,SE,Junior,46
+S09088,Student_9088,3.65,Finance,Sophomore,83
+S09096,Student_9096,3.52,IT,Junior,136
+S09100,Student_9100,3.52,SE,Freshman,48
+S09102,Student_9102,3.77,IT,Sophomore,71
+S09105,Student_9105,3.59,Finance,Junior,60
+S09110,Student_9110,3.95,Data Science,Senior,123
+S09117,Student_9117,3.92,Data Science,Freshman,53
+S09119,Student_9119,3.62,Data Science,Junior,15
+S09123,Student_9123,3.77,IT,Senior,39
+S09127,Student_9127,3.72,Data Science,Junior,23
+S09132,Student_9132,3.67,SE,Sophomore,135
+S09133,Student_9133,3.68,Data Science,Junior,41
+S09138,Student_9138,3.7,AI,Senior,75
+S09139,Student_9139,3.65,SE,Freshman,16
+S09140,Student_9140,3.62,IT,Junior,65
+S09142,Student_9142,3.79,Finance,Freshman,62
+S09144,Student_9144,3.74,Finance,Sophomore,43
+S09147,Student_9147,3.57,CS,Freshman,107
+S09150,Student_9150,3.68,Business,Freshman,30
+S09165,Student_9165,3.77,Finance,Senior,102
+S09167,Student_9167,3.72,SE,Freshman,69
+S09170,Student_9170,3.76,Data Science,Freshman,4
+S09177,Student_9177,3.8,Finance,Sophomore,57
+S09178,Student_9178,3.75,Data Science,Senior,24
+S09202,Student_9202,3.92,Business,Junior,14
+S09203,Student_9203,3.92,IT,Junior,56
+S09204,Student_9204,3.71,Business,Sophomore,44
+S09205,Student_9205,3.82,Finance,Sophomore,81
+S09222,Student_9222,3.65,CS,Freshman,44
+S09223,Student_9223,3.57,CS,Sophomore,95
+S09225,Student_9225,3.99,AI,Junior,97
+S09227,Student_9227,3.83,SE,Junior,57
+S09229,Student_9229,3.64,Data Science,Freshman,30
+S09232,Student_9232,3.82,Finance,Junior,61
+S09243,Student_9243,3.94,SE,Senior,68
+S09244,Student_9244,3.52,Finance,Freshman,29
+S09247,Student_9247,3.87,CS,Freshman,2
+S09249,Student_9249,3.87,IT,Senior,126
+S09253,Student_9253,3.52,SE,Sophomore,54
+S09256,Student_9256,3.72,CS,Senior,78
+S09265,Student_9265,3.99,Business,Freshman,63
+S09270,Student_9270,3.56,Business,Junior,74
+S09274,Student_9274,3.86,CS,Junior,59
+S09275,Student_9275,3.8,Business,Sophomore,132
+S09278,Student_9278,3.68,AI,Freshman,109
+S09289,Student_9289,3.73,Data Science,Junior,45
+S09291,Student_9291,3.74,AI,Sophomore,89
+S09298,Student_9298,3.95,Business,Sophomore,9
+S09302,Student_9302,3.56,Finance,Junior,130
+S09305,Student_9305,4.0,SE,Sophomore,84
+S09306,Student_9306,3.84,Business,Senior,47
+S09309,Student_9309,3.98,CS,Junior,125
+S09311,Student_9311,3.63,CS,Junior,132
+S09315,Student_9315,3.8,Business,Freshman,112
+S09319,Student_9319,3.75,Finance,Freshman,79
+S09322,Student_9322,3.53,IT,Senior,54
+S09329,Student_9329,3.74,SE,Sophomore,114
+S09336,Student_9336,3.97,SE,Sophomore,117
+S09337,Student_9337,3.93,Data Science,Junior,109
+S09338,Student_9338,3.77,Data Science,Junior,7
+S09343,Student_9343,3.88,SE,Junior,42
+S09356,Student_9356,3.97,CS,Freshman,32
+S09359,Student_9359,3.58,Business,Junior,118
+S09366,Student_9366,3.72,IT,Senior,33
+S09371,Student_9371,3.6,IT,Senior,24
+S09378,Student_9378,4.0,AI,Senior,57
+S09383,Student_9383,3.53,Business,Senior,58
+S09385,Student_9385,3.68,IT,Senior,81
+S09394,Student_9394,3.62,Business,Junior,54
+S09396,Student_9396,3.64,Business,Sophomore,33
+S09398,Student_9398,3.75,SE,Freshman,100
+S09400,Student_9400,3.83,AI,Sophomore,30
+S09404,Student_9404,3.71,Data Science,Junior,72
+S09412,Student_9412,3.8,Finance,Junior,133
+S09414,Student_9414,3.6,Finance,Senior,77
+S09415,Student_9415,3.88,Business,Freshman,11
+S09416,Student_9416,3.79,Finance,Senior,137
+S09421,Student_9421,3.86,SE,Sophomore,112
+S09436,Student_9436,3.79,Data Science,Senior,127
+S09437,Student_9437,3.65,Data Science,Senior,60
+S09443,Student_9443,3.54,Finance,Freshman,13
+S09445,Student_9445,3.52,Finance,Junior,40
+S09450,Student_9450,3.98,Data Science,Junior,79
+S09469,Student_9469,3.83,Business,Junior,88
+S09477,Student_9477,3.67,Data Science,Senior,18
+S09482,Student_9482,3.88,Data Science,Sophomore,27
+S09485,Student_9485,3.55,IT,Sophomore,139
+S09505,Student_9505,3.51,Finance,Sophomore,0
+S09506,Student_9506,3.77,Finance,Junior,58
+S09517,Student_9517,3.58,AI,Junior,25
+S09518,Student_9518,3.56,IT,Senior,126
+S09524,Student_9524,3.71,IT,Senior,87
+S09528,Student_9528,3.73,IT,Senior,72
+S09533,Student_9533,3.59,CS,Freshman,72
+S09549,Student_9549,3.79,CS,Sophomore,111
+S09555,Student_9555,3.91,Data Science,Senior,23
+S09557,Student_9557,3.61,SE,Junior,59
+S09559,Student_9559,3.94,AI,Senior,126
+S09561,Student_9561,3.84,Data Science,Senior,64
+S09563,Student_9563,3.65,Business,Sophomore,86
+S09567,Student_9567,3.81,IT,Senior,9
+S09591,Student_9591,3.95,Business,Senior,94
+S09603,Student_9603,3.71,IT,Senior,45
+S09604,Student_9604,3.82,Business,Senior,66
+S09607,Student_9607,3.82,Business,Junior,100
+S09608,Student_9608,3.84,IT,Sophomore,84
+S09616,Student_9616,3.78,CS,Junior,46
+S09623,Student_9623,3.6,Finance,Senior,21
+S09629,Student_9629,3.71,IT,Senior,66
+S09639,Student_9639,3.54,Business,Junior,28
+S09642,Student_9642,3.97,Finance,Sophomore,90
+S09643,Student_9643,3.72,CS,Senior,27
+S09656,Student_9656,3.65,IT,Senior,51
+S09671,Student_9671,3.58,AI,Senior,70
+S09683,Student_9683,3.92,SE,Freshman,82
+S09685,Student_9685,3.56,CS,Senior,134
+S09690,Student_9690,3.86,Business,Junior,109
+S09691,Student_9691,3.56,CS,Junior,139
+S09698,Student_9698,3.92,IT,Junior,102
+S09700,Student_9700,3.56,Data Science,Sophomore,36
+S09701,Student_9701,3.69,Data Science,Senior,138
+S09703,Student_9703,3.55,Business,Sophomore,96
+S09704,Student_9704,3.9,SE,Senior,9
+S09714,Student_9714,3.69,AI,Junior,71
+S09716,Student_9716,3.97,Finance,Freshman,30
+S09724,Student_9724,3.91,Finance,Junior,75
+S09725,Student_9725,3.78,Business,Freshman,121
+S09729,Student_9729,3.89,SE,Freshman,134
+S09732,Student_9732,3.65,AI,Junior,91
+S09733,Student_9733,3.63,AI,Senior,134
+S09734,Student_9734,3.69,SE,Sophomore,65
+S09736,Student_9736,3.9,Business,Freshman,104
+S09740,Student_9740,3.62,Business,Junior,83
+S09741,Student_9741,3.55,Data Science,Senior,77
+S09745,Student_9745,3.97,SE,Freshman,25
+S09747,Student_9747,3.71,CS,Freshman,41
+S09748,Student_9748,3.91,SE,Senior,129
+S09752,Student_9752,3.72,AI,Freshman,44
+S09764,Student_9764,3.58,Business,Junior,39
+S09765,Student_9765,3.88,SE,Junior,16
+S09773,Student_9773,3.92,AI,Senior,30
+S09780,Student_9780,3.57,CS,Sophomore,96
+S09781,Student_9781,3.61,SE,Senior,61
+S09783,Student_9783,3.56,SE,Sophomore,52
+S09787,Student_9787,3.97,AI,Senior,110
+S09790,Student_9790,3.75,Business,Sophomore,27
+S09794,Student_9794,3.64,Data Science,Junior,101
+S09797,Student_9797,3.73,Data Science,Senior,61
+S09806,Student_9806,3.71,IT,Freshman,116
+S09807,Student_9807,3.62,Business,Freshman,107
+S09814,Student_9814,3.99,CS,Sophomore,51
+S09815,Student_9815,3.57,CS,Sophomore,120
+S09817,Student_9817,3.59,Finance,Freshman,27
+S09824,Student_9824,3.78,Business,Sophomore,11
+S09826,Student_9826,3.88,SE,Senior,100
+S09832,Student_9832,3.86,Finance,Junior,94
+S09833,Student_9833,3.51,Business,Freshman,116
+S09837,Student_9837,3.69,Finance,Sophomore,59
+S09842,Student_9842,3.89,Finance,Sophomore,19
+S09849,Student_9849,3.76,AI,Sophomore,83
+S09850,Student_9850,3.91,Data Science,Freshman,52
+S09863,Student_9863,3.65,Finance,Junior,96
+S09864,Student_9864,3.89,Data Science,Freshman,20
+S09868,Student_9868,3.79,AI,Sophomore,77
+S09871,Student_9871,3.91,AI,Junior,137
+S09872,Student_9872,3.92,IT,Senior,86
+S09875,Student_9875,3.63,AI,Sophomore,129
+S09879,Student_9879,3.61,AI,Sophomore,124
+S09893,Student_9893,3.9,IT,Freshman,23
+S09897,Student_9897,3.71,AI,Junior,104
+S09901,Student_9901,3.96,Data Science,Junior,133
+S09905,Student_9905,3.51,AI,Freshman,95
+S09914,Student_9914,3.54,SE,Sophomore,138
+S09915,Student_9915,3.69,IT,Freshman,73
+S09917,Student_9917,3.76,Finance,Junior,75
+S09923,Student_9923,3.76,CS,Senior,77
+S09925,Student_9925,3.82,IT,Freshman,22
+S09933,Student_9933,3.81,Business,Sophomore,111
+S09935,Student_9935,3.65,Finance,Sophomore,134
+S09938,Student_9938,3.65,IT,Senior,83
+S09943,Student_9943,3.93,SE,Freshman,44
+S09947,Student_9947,3.67,AI,Freshman,9
+S09948,Student_9948,3.97,CS,Junior,62
+S09952,Student_9952,3.98,Data Science,Junior,47
+S09956,Student_9956,3.71,Data Science,Junior,96
+S09958,Student_9958,3.79,AI,Senior,9
+S09961,Student_9961,3.86,CS,Senior,24
+S09973,Student_9973,3.67,Finance,Freshman,38
+S09974,Student_9974,3.82,Data Science,Junior,25
+S09984,Student_9984,3.68,SE,Junior,125
+S09998,Student_9998,3.53,Data Science,Junior,115
+S10000,Student_10000,3.73,Data Science,Junior,107

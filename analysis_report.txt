@@ -1,0 +1,15 @@
+===== PREDICATE TESTER REPORT =====
+
+Original Records: 10000
+Site A Records: 1981
+Site B Records: 1130
+Site C Records: 6889
+
+Minimal Predicate Set:
+GPA > 3.5
+Major == 'CS'
+GPA <= 3.5
+
+Completeness: PASS
+Reconstruction: PASS
+Disjointness: PASS
